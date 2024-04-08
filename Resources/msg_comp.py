@@ -9,7 +9,7 @@ def read_msg_file(file_path):
             if line.strip().startswith('{'):
                 if message_number is not None:
                     messages[message_number] = ' '.join(message_lines)
-                message_number = line.strip()[1:4]  # Extract the message number
+                message_number = line.strip()[1:line.strip().find('}')]  # Extract the message number
                 message_lines = [line.strip()]
             else:
                 message_lines.append(line.strip())

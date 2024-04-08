@@ -1,4 +1,8 @@
-cmbatai2.msg is missing messages: 164
-map.msg is missing messages: 654, 658, 653, 657, 656, 655
-pro_item.msg is missing messages: 533, 532
+cmbatai2.msg is missing messages: 1706, 1641, 1643, 1642, 1640, 1705, 1704
+combat.msg is missing messages: 2038, 2033, 2036, 2030, 2032, 2035, 2034, 2031, 2037
+map.msg is missing messages: 657, 1550, 658, 654, 1549, 653, 655, 656
+pro_item.msg is missing messages: 53300, 50001, 53201, 53301, 53200
+pro_scen.msg is missing messages: 172501, 172401
 quests.msg is missing messages: 211, 606, 409
+scrname.msg is missing messages: 1408, 1405, 1407, 1406, 1404
+worldmap.msg is missing messages: 5206, 5207, 5205
