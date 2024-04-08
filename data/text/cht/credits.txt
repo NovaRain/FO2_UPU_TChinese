@@ -1,0 +1,564 @@
+
+
+
+
+
+
+#FALLOUT 2 MANDARIN CHINESE VERSION（異塵餘生２中文改版參與人員）
+
+#PROGRAMMING（程式設計小組）
+
+@Localization Programmer（中文化程式設計師）
+Lawrence
+
+#ART（美工設計）
+Char Sha
+
+
+#TRANSLATION（翻譯小組）
+
+@Director of Translation（翻譯小組總監）
+Allen Cheng-Yu Chuang（莊振宇）
+
+@Translation（翻譯人員）
+Allen Cheng-Yu Chuang（莊振宇）
+
+@Assistant Translation（協力翻譯人員）
+Kevin Chang（張俊程）
+
+@Translation Editor（翻譯修改人員）
+Kevin Chang（張俊程）
+Lawrence
+
+
+@QUALITY ASSURANCE（遊戲測試小組）
+
+@Director of QA（遊戲測試總監）
+Kevin Chang（張俊程）
+
+@Quality Assurance（遊戲測試人員）
+Kevin Chang（張俊程）
+Amanda Chen（陳盈如）
+Afeir Lin（林本如）
+Hazel Wu（吳佳惠）
+Leon Liao（廖瑞鎮）
+Jack Young（楊証傑）
+Andy Liu（劉國雄）
+Jay Huang（黃杉全）
+
+
+#Local Marketing（本地市場行銷）
+@Marketing Managers（市場行銷經理）
+Dell Yu（余如山）
+
+
+@Product Manager（產品經理）
+Eileen Shang（商瑞玲）
+
+
+@Thanks to（鳴謝）
+
+Cathy Harvey, Sue Ganz, Aileen McKeagney!
+
+
+感謝Jesse Wang（王日昌）免費提供遊戲細部攻略文件。
+FO2HINTC.TXT
+
+
+CONGRATULATION !!!
+
+恭喜你破關了，不知道你是否是在不依靠攻略的情況下
+就破關了的呢？如果是的話，那你就是個真正享受到這
+個精緻遊戲的玩家了！雖然大家都不看好異塵餘生二的
+中文化工作，但是我們還是做到了，也希望英特衛國際
+有限公司這份不計得失的「傻瓜精神」，可以受到大家
+的肯定。我們雖然自認做的還不夠快，不夠好。但是我
+們很努力的在改進，也希望大家都能繼續給予支持與鼓
+勵，並提供各種改進的意見。我們也會盡我們的能力在
+之後推出更多的中文化遊戲來回饋大家，讓大家可以真
+的玩到很多經典遊戲的精髓．．．．．．．．．．．。
+
+-- Interwise Co., Ltd.
+-- 英特衛國際有限公司
+
+
+
+#FALLOUT 2 ENGLISH VERSION（異塵餘生２原開發設計小組）
+
+#TESTPROGRAMMING（程式設計小組）
+
+@Lead Programmer（主要程式設計）
+Jesse Reynolds
+
+@Programmer（程式設計）
+Chris Jones
+Nick Kesting
+Robert Hertenstein 2
+Thomas French
+Chris Holland
+Dan Spitzley
+
+@Additional Programming（協力程式設計）
+Tim Cain
+John Price
+
+@Movie Techenology（動畫撥放引擎）
+Paul Edelstein
+
+@Installer/Autoplay（載入程式）
+Darren Monahan
+
+
+#ART（美工設計小組）
+
+@Lead Artists（主要美工設計）
+Gary Platner
+Tramell Ray Isaac
+
+@Artists（美工人員）
+Robert Collier
+Jeff McAteer
+Brian Menze
+Scott Rodenhizer
+
+@Additional Art（協力美工設計）
+Aaron Brown
+Peter Kroko
+Michael Sean McCarthy
+Chad Moore
+Eddie Rainwater
+Justin Sweet
+Vance Kovacs
+Tim Donley
+
+@Intern Artists（實習美工人員）
+Charles M. Gregory
+Daniel Jacobs
+John Jacobs
+Karel Jacobs
+Christopher Jones
+Benc Orpak
+Adoni Torres
+
+@Original Game Artwork（遊戲美工草稿）
+Jason Anderson
+Leonard Boyarsky
+Michael Dean
+Sharon Shellman
+
+
+#DESIGN（劇情設計小組）
+
+@Lead Designers（主要設計人員）
+Feargus Urquhart
+Matthew J. Norton
+
+@Designers（設計人員）
+Jason G. Suinn
+John Deiley
+Chris Avellone
+David "Zeb" Cook
+Dave Hendee
+Colin McComb
+
+@Technical Designer（技術設計人員）
+Scott Everts
+
+@Level Designers（關卡設計人員）
+John Deiley
+Scott Everts
+Jason G. Suinn
+
+@Additional Design（協力設計人員）
+Robert Hertenstein 2
+Nick Kesting
+Fred Hatch
+
+@Design/Dialogue（設計／對話）
+Mark O'Green
+
+@Original Game Design（遊戲設計草稿）
+Tim Cain
+Leonard Boyarsky
+Jason Anderson
+Jason Taylor
+Scott Campbell
+
+@SPECIAL Game System Design（特別遊戲引擎設計）
+Chris Taylor
+Tim Cain
+Jess Heinig
+Feargus Urquhart
+
+
+#PRODUCTION（製片小組）
+
+@Division Director（小組總監）
+Feargus Urquhart
+
+@Producers（製作人）
+Eric Demilt
+Feargus Urquhart
+
+@Assistant Producers（協力製作人）
+Fred Hatch
+Douglas Avery
+
+@Asst. Division Director（協力小組總監）
+Jeremy Barnes
+
+@Lip Synch Coordinators（人物語音對嘴技術指導）
+Jason G. Suinn
+Dave Hendee
+
+@Lip Synch Artists（人物語音對嘴技術員）
+Douglas Avery
+Chris Benson
+David "Zeb" Cook
+Jacob Devore
+Kenneth Lee
+Colin McComb
+
+
+
+#QUALITY ASSURANCE（遊戲測試）
+
+@Director of Quality Assurance（遊戲測試小組總監）
+Chad Allison
+
+@QA Managers（遊戲測試小組經理）
+Steve Victory
+Colin Totman
+
+@PC Version Project Supervisors（ＰＣ版本計畫監督）
+Greg "Moose" Baumeister
+Steve McLafferty
+Darrell Jones
+
+@PC Version Senior Testers（ＰＣ版本高級測試員）
+Dennis Presnell
+Chad Nicholas
+
+@PC Version Testers（ＰＣ版本測試員）
+Ed Hyland
+Dany Martinez
+WR Saunders
+Rodney Smith
+Tony Piccoli
+David Maldonado
+Dan Levin
+Eric Pribish
+Scott Warner
+Derek Johnson
+Tim Anderson
+Primo Pulanco
+Jeremy Ray
+Jeremy Seely
+Henry Lee
+Scott Humphreys
+
+@I.S. Compatibility Manager（相容性測試經理）
+Frank Pimentel
+
+@Senior I.S. Technician（高級相容性測試員）
+Bill Delk
+
+@I.S. Technician（相容性測試員）
+Tom Quast
+
+@QA Database Administrator（遊戲測試資料庫管理員）
+Steve Cabiness
+
+@Compatibility Technicians（相容性測試員）
+Derek Gibbs
+John Parker
+Ed Robles
+Louie Iturzaeta
+
+
+
+#AUDIO（音效設計小組）
+
+@Audio Director（音效設計小組總監）
+Charles Deenen
+
+@Audio Mastering（音效錄音人員）
+Craig Duman
+
+@Voiceover Director（配音總監）
+Jamie Thomason
+
+@Voiceover Coordinator（配音指導）
+Julie Morgavi
+
+@Voiceover Supervisor（配音監督）
+Chris Borders
+
+@Voiceover Editors（配音剪接）
+Frank Szick
+Kevin Frayser
+Ron Valdez
+
+@遊戲語音於Marc Graue Studio錄製
+
+@Sound Design（音效設計）
+Paul Menichini
+Tim Walston
+
+@Cinematics Sound Design（過場動畫音效設計）
+David Farmer
+
+@Cinematics Re-Recording Mixing（過場動畫混音）
+Charles Deenen
+
+@杜比[TM]環場音效音效於Interplay Audio錄製
+
+@Audio Administrator（音效管理員）
+Gloria Soto
+
+@Additional Sound Design（協力音效設計）
+Larry Peacock
+Weddington
+EFX
+Eight Ball Sound
+Charles Deenen
+
+@Voiceover Engineers（語音工程師）
+Wes Smith
+Julian Cook
+of Marc Graue Studios
+
+@Music（遊戲音樂）
+Mark Morgan
+@for
+Four Bars Intertainment
+@and by
+Rick Jackson
+
+@Voice Producer（語音製作人）
+Fred Hatch
+
+
+@FEATURING THE VOICES OF（遊戲配音人員）
+
+Charlie Adler
+@哈歐
+
+Ron Perlman
+@旁白
+
+Dwight Schultz
+@哈克
+
+Jason Marsden
+@麥朗
+
+Cree Summer
+@琳娜特
+
+Kevin Michael Richardson
+@無線電操作員
+
+Peter Jason
+@演習上校
+
+Peter Jason
+@大門衛兵
+
+Flo DiRe
+@長老
+
+Tress MacNeille
+@坦蒂
+
+Greg Eagles
+@史力克
+
+Michael Dorn
+@馬可世
+
+Michael Dorn
+@法蘭克．荷瑞根
+
+Jeffrey Jones
+@總統
+
+
+
+"A KISS TO BUILD A DREAM ON"
+@Performed by Louie Armstrong
+@Courtesy of GRP Records
+@Under license from UNIVERSAL MUSIC SPECIAL MARKETS
+
+"A KISS TO BUILD A DREAM ON"
+@Written by Bert Kalmer, Harry Ruby and Oscar Hammerstein II
+@(C) 1935, 1951 renewed 1963, 1979 METRO GOLDWYN MAYER, INC.
+@Rights assigned to EMI CATALOGUE PARTNERSHIP
+@All Rights Controlled and Administered by EMI MILLER CATALOG INC.
+@All Rights Reserved.  International Copyright Secured.
+@Used by Permission.
+
+@WARNING: It is a violation of Federal Copyright Law
+@to copy, duplicate or reproduce this Program or any
+@portions of this Program without the express written
+@permission of the copyright owner.
+
+
+#VIDEO（動畫科技）
+
+@Video Services Provided by（動畫服務）
+Dave Cravens
+Stephen Miller
+Bill Stoudt
+Dan Williams
+
+
+#MARKETING（市場行銷小組）
+
+@Director of Marketing（市場行銷總監）
+Paul Sackman
+
+@Marketing Managers（市場行銷經理）
+Mike Markin
+Greg Peterson
+
+@Associate Marketing Manager（副市場行銷經理）
+Greg Bauman
+
+@PR Manager（公關經理）
+Krys Card
+
+@Traffic Managers（商務經理）
+Thom Dohner
+Paul Naftalis
+
+
+
+@Thanks to（鳴謝）
+@(Dave H.) The Unwashed Villagers, the Dyer Family,
+@Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
+@Thuy Dang, Eileen Suh and Ma and Pa Avellone;  (t.ray)
+@my mother, my father, my son and my brother and to all
+@of my adoring fans for buying this game;  (Rob H.)
+@Becky Warner and Billie Ryder;  (Matt N.) Meine
+@DieMonika und der kater;  (Jesse R.) "To Dad,
+@you were an inspiration all my life.  I miss you
+@always."
+
+@Special Thanks to:（特別鳴謝）
+@The Members of the Fallout and Fallout 2 message boards.
+@Thanks for your comments, suggestions and other esoteria!
+@The Interplay Video Room, for processing above and beyond
+@the call of duty!
+
+@Fallout 2 was brought to you by Interplay Productions,
+@Team Fallout 2, the letter Q and numbers 42 and 20.
+
+
+
+
+@希望您會喜歡英特衛國際有限公司投入了大量人力物力
+@所改版出來的異塵餘生２中文版
+
+@您的鼓勵將是我們「傻瓜精神」的動力來源．．．
+
+@這份動力將讓我們去做更多遊戲中文化的嘗試。
+
+
+
+@以下是Ｆａｌｌｏｕｔ ２最後訊息的翻譯內容．．．
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@好吧，如果你一定要待在這邊看的話．．
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@你有沒有找到遊戲中全部的特殊事件啊？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@繼續看！？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@你想你還會發現一些特別的東西嗎？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@哈哈！祝你玩得愉快．．
