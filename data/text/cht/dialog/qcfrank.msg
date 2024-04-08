@@ -45,4 +45,3 @@
 
 # Additional PC responses to Node 4
 {135}{}{這邊只有一個變種人，那就是你。死吧！}
-

@@ -433,4 +433,3 @@
 # New Marcus dialog for new party structure, waiting for Vocs, from Phrases 81 and 79
 {20000}{mcs81b}{對。}
 {20001}{}{我可以用任何大型槍械，包括迫擊砲，小型槍，大型能量槍。空手搏鬥也很不錯，手榴彈也用的很好。我不穿裝甲，因為沒有我適合的尺寸。}
-

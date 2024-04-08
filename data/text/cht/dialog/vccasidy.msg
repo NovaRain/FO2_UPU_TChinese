@@ -252,4 +252,3 @@
 # I need to remove the armor that you're wearing.
 {20007}{}{我需要你除掉你的裝甲。}
 # I need to know what kind of weapons you can use. Transplant original comment from Question Node Line: 264
-

@@ -83,4 +83,3 @@
 # 10. Dumb Floats (From Where to go)
 {320}{}{嘿！滾開！}
 {321}{}{不要摸我！}
-

@@ -145,4 +145,3 @@
 #  Experience-gain messages
 #
 {600}{}{§A¤É¯Å¤F¡C}
-

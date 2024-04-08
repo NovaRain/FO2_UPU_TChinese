@@ -132,4 +132,3 @@
  sleepy.}
 {1110}{}{The Great Bridge exits our village in the south.}
 {1111}{}{He guards the bridge leading into our village.}
-

@@ -83,4 +83,3 @@
 
 # Safe opening Message
 {344}{}{你把歹徒的保險箱給打開了。}
-
