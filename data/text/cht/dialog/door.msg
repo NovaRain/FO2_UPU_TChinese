@@ -1,32 +1,32 @@
 #############################################################
-#  Message File: Door.msg				    #
-#							    #
+#  Message File: Door.msg                                   #
+#                                                           #
 #  Note: Characters within curly braces (like line 100)     #
-#	 will be read in as a message string. Caution	    #
-#	 should be used when making comments. All comments  #
-#	 should be prepended with a pound symbol for	    #
-#	 visual ease. This does not comment out the line    #
-#	 though.					    #
-#							    #
-#  Purpose: This message file contains the information	    #
-#	    concerning doors in a locked state, trapped     #
-#	    state, locked and trapped state.		    #
-#							    #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
 #  Log: Please note any changes that have been made to this #
-#	file and comment which lines have changed.	    #
-#	April 19,1998 nbk: added message line to be used    #
-#			   for doors opened with keys.	    #
-#							    #
-#  Created: September 26, 1997				    #
-#							    #
-#  Updated:						    #
+#       file and comment which lines have changed.          #
+#       April 19,1998 nbk: added message line to be used    #
+#                          for doors opened with keys.      #
+#                                                           #
+#  Created: September 26, 1997                              #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
 #  The following lines are for description of the door. The #
 #  first lines, line 100-1, are for the look_at_proc. The   #
 #  remainder until the next block are for description_proc  #
-#  based one skill and perception success.		    #
+#  based one skill and perception success.                  #
 #############################################################
 
 # look_at_proc
@@ -45,8 +45,6 @@
 {107}{}{你看到了一扇上面帶鎖的門，在上面並且裝有陷阱，它可以被拆除掉。}
 {108}{}{你看到了一扇上面沒有任何鎖的門，但上面裝有陷阱，它可以被拆除掉。}
 {109}{}{你看到了一扇上面帶有生繡的鎖的一道門，在上面並且裝有陷阱，它可以被拆除掉。}
-
-# Fixed so far
 
 {110}{}{你看見了一扇堅固的門，上面有一個鎖（可以被撬開），門匡上並且有一條被切斷的電線，你也許能夠將它撬開。}
 {111}{}{你看見了一扇堅固的門，上面有一個鎖，門匡上並且有一條被切斷的電線，你也許能夠將它撬開。}
@@ -127,7 +125,7 @@
 #############################################################
 #  The following lines are for damage done to the player or #
 #  critter who tried to open the door, or failed a traps    #
-#  roll.						    #
+#  roll.                                                    #
 #############################################################
 
 # The following sets of lines are to be translated as:
@@ -144,7 +142,7 @@
 
 #############################################################
 #  The following lines are for when the player uses skills  #
-#  on the door. 					    #
+#  on the door.                                             #
 #############################################################
 
 # Player uses a skill on the door
@@ -185,12 +183,9 @@
 {201}{}{巧妙的拆除了陷阱。}
 {202}{}{拆除陷阱失敗了。}
 
-# Using a key on the door.
-{400}{}{你將容器上的鎖打開了。}
-
 #############################################################
 #  The following lines are for when the player tries to     #
-#  use items on the door which are not lockpicks.	    #
+#  use items on the door which are not lockpicks.           #
 #############################################################
 
 # Player uses an item on the door
@@ -227,14 +222,20 @@
 {187}{}{砸門時把背扭傷了，傷了}
 {188}{}{點生命值。}
 
+{601}{}{它是開著的，笨蛋。}
+
+# Crowbar bent
+{620}{}{你將鐵撬彎折得完全變形，它已經毫無用處了。}
+{621}{}{將鐵撬彎折得完全變形，它已經毫無用處了。}
+
 #############################################################
-#  Damage done to the door due to explosives.		    #
+#  Damage done to the door due to explosives.               #
 #############################################################
 
 {193}{}{那門居然一點損傷都沒有。}
 
 #############################################################
-#  Reporting Door Status should it be used.		    #
+#  Reporting Door Status should it be used.                 #
 #############################################################
 
 {203}{}{那門看上去是鎖上的。}
@@ -242,13 +243,13 @@
 
 # NPC finds trap
 # The following line is to be translated as:
-# NPC notices a trap in the door jam.
+# NPC notices a trap in the door jamb.
 
 {205}{}{發現了門上有個陷阱。}
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #
-#  closed to set the trap.				    #
+#  closed to set the trap.                                  #
 #############################################################
 
 # Player tries to set a trap on an open door
@@ -264,14 +265,23 @@
 # NPC tries to set a trap on a closed door
 {210}{}{巧妙的在門上設了個陷阱。}
 {211}{}{在門上設陷阱的計畫失敗了。}
+
+# PC critically fails to set a trap
+{610}{}{你徹底失敗，並且讓炸藥提早爆炸了。}
+# NPC critically fails to set a trap
+{611}{}{徹底失敗，並且讓炸藥提早爆炸了。}
+
 {300}{}{你將門鎖給打開了。}
 {301}{}{你將門給鎖上了。}
 {302}{}{你無法將門給鎖上，因為門是開著的。}
 {303}{}{那個鑰匙無法插入這個鎖上面。}
 
+# for broken doors
 {320}{}{無論如何這一道門都是不可能鎖上的。}
 {330}{}{這個門被卡住了，關不上。}
 
+# Using a key on the door. (YES THIS IS A DUPLICATE BUT PLEASE DO NOT REMOVE..
+# IT MOST LIKELY IS BEING USED BY A DOOR SCRIPT SOMEWHERE)
 {400}{}{你將門給打開了。}
 
 {414}{}{你看見了一扇相當堅強的門，上面有一個鎖（可以使用開鎖器將它打開）。你也可以將它撬開。}

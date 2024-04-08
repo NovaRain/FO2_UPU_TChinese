@@ -1,15 +1,10 @@
-
-
-
-
-
-
-#FALLOUT 2 MANDARIN CHINESE VERSION（異塵餘生２中文改版參與人員）
+#FALLOUT 2 MANDARIN CHINESE VERSION（異塵餘生2中文改版參與人員）
 
 #PROGRAMMING（程式設計小組）
 
 @Localization Programmer（中文化程式設計師）
 Lawrence
+
 
 #ART（美工設計）
 Char Sha
@@ -31,7 +26,7 @@ Kevin Chang（張俊程）
 Lawrence
 
 
-@QUALITY ASSURANCE（遊戲測試小組）
+#QUALITY ASSURANCE（遊戲測試小組）
 
 @Director of QA（遊戲測試總監）
 Kevin Chang（張俊程）
@@ -48,9 +43,9 @@ Jay Huang（黃杉全）
 
 
 #Local Marketing（本地市場行銷）
+
 @Marketing Managers（市場行銷經理）
 Dell Yu（余如山）
-
 
 @Product Manager（產品經理）
 Eileen Shang（商瑞玲）
@@ -83,14 +78,14 @@ CONGRATULATION !!!
 
 
 
-#FALLOUT 2 ENGLISH VERSION（異塵餘生２原開發設計小組）
+#FALLOUT 2 ENGLISH VERSION（異塵餘生2原開發設計小組）
 
-#TESTPROGRAMMING（程式設計小組）
+#PROGRAMMING（程式設計小組）
 
 @Lead Programmer（主要程式設計）
 Jesse Reynolds
 
-@Programmer（程式設計）
+@Programmers（程式設計）
 Chris Jones
 Nick Kesting
 Robert Hertenstein 2
@@ -101,6 +96,7 @@ Dan Spitzley
 @Additional Programming（協力程式設計）
 Tim Cain
 John Price
+Michael Bernstein
 
 @Movie Techenology（動畫撥放引擎）
 Paul Edelstein
@@ -184,7 +180,7 @@ Jason Anderson
 Jason Taylor
 Scott Campbell
 
-@SPECIAL Game System Design（特別遊戲引擎設計）
+@SPECIAL Game System Design（SPECIAL遊戲系統設計）
 Chris Taylor
 Tim Cain
 Jess Heinig
@@ -230,16 +226,17 @@ Chad Allison
 Steve Victory
 Colin Totman
 
-@PC Version Project Supervisors（ＰＣ版本計畫監督）
+@PC Version Project Supervisors（PC版本計畫監督）
 Greg "Moose" Baumeister
 Steve McLafferty
 Darrell Jones
 
-@PC Version Senior Testers（ＰＣ版本高級測試員）
+@PC Version Senior Testers（PC版本資深測試員）
 Dennis Presnell
 Chad Nicholas
+Dave Simon
 
-@PC Version Testers（ＰＣ版本測試員）
+@PC Version Testers（PC版本測試員）
 Ed Hyland
 Dany Martinez
 WR Saunders
@@ -260,7 +257,7 @@ Scott Humphreys
 @I.S. Compatibility Manager（相容性測試經理）
 Frank Pimentel
 
-@Senior I.S. Technician（高級相容性測試員）
+@Senior I.S. Technician（資深相容性測試員）
 Bill Delk
 
 @I.S. Technician（相容性測試員）
@@ -311,7 +308,7 @@ David Farmer
 @Cinematics Re-Recording Mixing（過場動畫混音）
 Charles Deenen
 
-@杜比[TM]環場音效音效於Interplay Audio錄製
+@杜比[TM]環場音效於Interplay Audio錄製
 
 @Audio Administrator（音效管理員）
 Gloria Soto
@@ -434,6 +431,7 @@ Paul Naftalis
 
 
 
+
 @Thanks to（鳴謝）
 @(Dave H.) The Unwashed Villagers, the Dyer Family,
 @Jamba Juice, The Tick, Southpark;  (Chris A.) my "pal,"
@@ -458,7 +456,7 @@ Paul Naftalis
 
 
 @希望您會喜歡英特衛國際有限公司投入了大量人力物力
-@所改版出來的異塵餘生２中文版
+@所改版出來的異塵餘生2中文版
 
 @您的鼓勵將是我們「傻瓜精神」的動力來源．．．
 
@@ -466,7 +464,7 @@ Paul Naftalis
 
 
 
-@以下是Ｆａｌｌｏｕｔ ２最後訊息的翻譯內容．．．
+@以下是Fallout 2最後訊息的翻譯內容．．．
 
 
 
@@ -484,10 +482,7 @@ Paul Naftalis
 
 
 
-
-@好吧，如果你一定要待在這邊看的話．．
-
-
+@好吧，如果你一定要待在這邊看的話．．．
 
 
 
@@ -521,9 +516,8 @@ Paul Naftalis
 
 
 
+@繼續看．．．
 
-
-@繼續看！？
 
 
 
@@ -561,4 +555,4 @@ Paul Naftalis
 
 
 
-@哈哈！祝你玩得愉快．．
+@哈哈！祝你玩得愉快．．．
