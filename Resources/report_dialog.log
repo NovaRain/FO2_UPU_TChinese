@@ -3,7 +3,6 @@ cstouch.msg is missing messages: 148, 202, 621, 135, 168, 107, 123, 142, 120, 13
 ecbandit.msg is missing messages: 204
 ecbhead.msg is missing messages: 1138, 1142, 1134, 1140, 1148, 1136, 1129
 ecbhuntr.msg is missing messages: 108
-ecbrahmn.msg not found in the test directory.
 ecbridge.msg is missing messages: 1171
 ecdogmet.msg is missing messages: 1110, 301, 300
 ecfrmkid.msg is missing messages: 202, 201, 200
@@ -24,7 +23,6 @@ gcjerem.msg is missing messages: 300
 gclenny.msg is missing messages: 5002, 5000, 5001
 gcwooz.msg is missing messages: 727, 728, 726, 715, 724, 729, 731, 716, 730, 717, 725, 719, 721, 722, 720, 718, 723, 732
 generic.msg is missing messages: 1019, 20100, 30000, 20000, 1020, 1021
-giwell.msg not found in the test directory.
 hcchad.msg is missing messages: 147, 144, 146, 145, 150
 hcenchb.msg is missing messages: 124, 123, 122, 120, 125, 121
 hclumpy.msg is missing messages: 201
@@ -53,7 +51,6 @@ ncmcgee.msg is missing messages: 319, 320, 321
 ncmyrgrd.msg is missing messages: 480, 479
 ncnikki.msg is missing messages: 000
 ncprzftr.msg is missing messages: 203, 202, 224, 210, 223, 201, 200, 220, 222, 211, 221
-ncrent.msg not found in the test directory.
 nctray.msg is missing messages: 814
 nctyson.msg is missing messages: 154
 ncwillie.msg is missing messages: 702, 701, 700
@@ -63,7 +60,6 @@ niwristi.msg is missing messages: 300
 ntcar1.msg is missing messages: 111, 110
 ntcar2.msg is missing messages: 101
 ocgoris.msg is missing messages: 2001, 2002, 2000
-patchinf.msg not found in the test directory.
 qhprzrch.msg is missing messages: 338
 qiturtrm.msg is missing messages: 264, 266, 267, 265, 268
 rcbette.msg is missing messages: 181
@@ -75,7 +71,6 @@ rclou.msg is missing messages: 300, 231, 233, 232, 230, 234, 229, 301
 rcmarion.msg is missing messages: 287, 302
 rcnord.msg is missing messages: 123
 rcvelani.msg is missing messages: 123
-reddown.msg not found in the test directory.
 sccgtgrd.msg is missing messages: 113
 scdrvpay.msg not found in the test directory.
 scduppo.msg is missing messages: 156
@@ -85,12 +80,9 @@ schal.msg is missing messages: 118
 sckarl.msg is missing messages: 153, 154
 scvortis.msg is missing messages: 177
 scwestin.msg is missing messages: 175
-sfchina.msg not found in the test directory.
-sfdock.msg not found in the test directory.
 shtandi.msg is missing messages: 411, 410, 400, 401
 sscrpdor.msg is missing messages: 121, 120
 sssign.msg is missing messages: 130
-v15ent.msg not found in the test directory.
 vcandy.msg is missing messages: 352, 350, 351
 vccasidy.msg is missing messages: 372
 vccrtgrd.msg is missing messages: 115, 116, 117, 114
@@ -98,12 +90,9 @@ vcdrtroy.msg is missing messages: 399
 vcmclure.msg is missing messages: 345, 344
 virocks.msg is missing messages: 111, 110
 vishft2b.msg is missing messages: 112
-viwell.msg not found in the test directory.
 wcbrnbot.msg is missing messages: 207
 wsterm2a.msg is missing messages: 308, 311, 309, 310
 wsterm2b.msg is missing messages: 300, 400
 wsterm4b.msg is missing messages: 155, 154
-zccorpse.msg not found in the test directory.
-zcslave.msg not found in the test directory.
 zislots.msg is missing messages: 5002, 5000, 5001, 2203
 zsdrvcar.msg is missing messages: 230, 220, 250
