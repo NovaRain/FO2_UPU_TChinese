@@ -308,3 +308,6 @@
 {335}{}{那很疼。}
 {336}{}{那真的很疼。}
 {337}{}{那肯定很疼。}
+#added by killap
+{338}{}{事實上，總統先生，我回來了。}
+# End of Generic Recorded Dialog - Not being used!
