@@ -1,14 +1,8 @@
 ccgrdpa.msg is missing messages: 323, 321, 325, 315, 311, 320, 302, 316, 304, 328, 329, 301, 300, 303, 322, 312, 310, 324, 326, 327
-cstouch.msg is missing messages: 148, 202, 621, 135, 168, 107, 123, 142, 120, 130, 150, 105, 611, 195, 149, 620, 127, 205, 104, 141, 138, 601, 110, 146, 102, 116, 193, 154, 106, 208, 156, 133, 201, 129, 114, 194, 109, 211, 167, 139, 117, 145, 161, 115, 212, 152, 400, 196, 158, 162, 207, 101, 151, 112, 132, 144, 155, 143, 610, 100, 200, 198, 209, 163, 121, 160, 131, 164, 199, 128, 124, 210, 103, 140, 157, 122, 166, 111, 119, 136, 165, 204, 159, 137, 153, 147, 113, 134, 108, 118, 125, 169, 206, 126
 ecbhead.msg is missing messages: 1138, 1142, 1134, 1140, 1148, 1136, 1129
-echomkid.msg is missing messages: 202, 201, 200
 echomwfe.msg is missing messages: 208, 203, 202, 205, 210, 201, 200, 220, 204, 209, 207, 206
-ecmststr.msg is missing messages: 103, 105, 104, 102
 ectravlr.msg is missing messages: 1112, 1113, 148, 147, 1107, 1110, 150, 1111, 149, 1109, 1108
-fckenlee.msg is missing messages: 2001, 1430
-fselcomp.msg is missing messages: 251, 252, 250
 gcbrain.msg is missing messages: 701, 702, 611, 187, 703, 4211
-gcgordon.msg is missing messages: 303, 305, 304
 gclenny.msg is missing messages: 5002, 5000, 5001
 gcwooz.msg is missing messages: 727, 728, 726, 715, 724, 729, 731, 716, 730, 717, 725, 719, 721, 722, 720, 718, 723, 732
 generic.msg is missing messages: 1019, 20100, 30000, 20000, 1020, 1021
@@ -45,4 +39,3 @@ wsterm2a.msg is missing messages: 308, 311, 309, 310
 wsterm2b.msg is missing messages: 300, 400
 wsterm4b.msg is missing messages: 155, 154
 zislots.msg is missing messages: 5002, 5000, 5001, 2203
-zsdrvcar.msg is missing messages: 230, 220, 250
