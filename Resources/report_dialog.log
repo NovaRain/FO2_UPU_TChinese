@@ -1,41 +1,22 @@
 ccgrdpa.msg is missing messages: 323, 321, 325, 315, 311, 320, 302, 316, 304, 328, 329, 301, 300, 303, 322, 312, 310, 324, 326, 327
-ecbhead.msg is missing messages: 1138, 1142, 1134, 1140, 1148, 1136, 1129
 echomwfe.msg is missing messages: 208, 203, 202, 205, 210, 201, 200, 220, 204, 209, 207, 206
-ectravlr.msg is missing messages: 1112, 1113, 148, 147, 1107, 1110, 150, 1111, 149, 1109, 1108
 gcbrain.msg is missing messages: 701, 702, 611, 187, 703, 4211
-gclenny.msg is missing messages: 5002, 5000, 5001
 gcwooz.msg is missing messages: 727, 728, 726, 715, 724, 729, 731, 716, 730, 717, 725, 719, 721, 722, 720, 718, 723, 732
 generic.msg is missing messages: 1019, 20100, 30000, 20000, 1020, 1021
 hcchad.msg is missing messages: 147, 144, 146, 145, 150
 hcenchb.msg is missing messages: 124, 123, 122, 120, 125, 121
 hcmarcus.msg is missing messages: 40000, 30000, 40001, 193003, 193001, 40003, 40002, 193002, 40004
 hcphil.msg is missing messages: 1984, 1983, 1981, 1982
-kcaldo.msg is missing messages: 920, 922, 921
-kcmaida.msg is missing messages: 512, 511
 kcsulik.msg is missing messages: 3502, 3200, 481, 3500, 3501
-kstill.msg is missing messages: 103, 150, 102
 mbase12.msg not found in the test directory.
-mcbaltha.msg is missing messages: 240, 2199
 mcdavin.msg is missing messages: 2001, 405, 2002, 2000
-mcjo.msg is missing messages: 612, 1500
 mcmiria.msg is missing messages: 470, 2002, 420, 2000, 270, 2001, 280
 nccorbro.msg is missing messages: 558
 nclloyd.msg is missing messages: 1051, 1054, 1052, 236, 1053
-ncmcgee.msg is missing messages: 319, 320, 321
 ncprzftr.msg is missing messages: 203, 202, 224, 210, 223, 201, 200, 220, 222, 211, 221
-ncwillie.msg is missing messages: 702, 701, 700
-ocgoris.msg is missing messages: 2001, 2002, 2000
-qiturtrm.msg is missing messages: 264, 266, 267, 265, 268
 rcfannie.msg is missing messages: 192, 200, 191, 193, 187, 188, 189, 186, 190
 rclou.msg is missing messages: 300, 231, 233, 232, 230, 234, 229, 301
-rcmarion.msg is missing messages: 287, 302
 scdrvpay.msg not found in the test directory.
 scgunthr.msg is missing messages: 178, 179, 510, 177
 shtandi.msg is missing messages: 411, 410, 400, 401
-vcandy.msg is missing messages: 352, 350, 351
-vccrtgrd.msg is missing messages: 115, 116, 117, 114
-vcmclure.msg is missing messages: 345, 344
-wsterm2a.msg is missing messages: 308, 311, 309, 310
-wsterm2b.msg is missing messages: 300, 400
-wsterm4b.msg is missing messages: 155, 154
 zislots.msg is missing messages: 5002, 5000, 5001, 2203

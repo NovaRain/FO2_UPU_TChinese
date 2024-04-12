@@ -1,23 +1,23 @@
 #############################################################
-#  Message File: KCaldo.msg				    #
-#							    #
-#	Body Type:					    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP: 15						    #
-#	Skills to note: Barter 50			    #
-#	Inventory: 2 bottles of booze, 1 bottle of beer     #
-#		   and 2 molotov cocktails		    #
-#  Log: 						    #
-#							    #
-#  Created: January 14, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: KCaldo.msg                                 #
+#                                                           #
+#       Body Type:                                          #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 15                                              #
+#       Skills to note: Barter 50                           #
+#       Inventory: 2 bottles of booze, 1 bottle of beer     #
+#                  and 2 molotov cocktails                  #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 14, 1998                                #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到一個穿著髒衣服，並且看起來病奄奄的男人。}
 {101}{}{你看到艾爾多，小鎮的迎接者。}
@@ -25,7 +25,7 @@
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
-#  Tool.						    #
+#  Tool.                                                    #
 #############################################################
 
 {200}{}{你好，我在克拉馬斯從來都沒有看過你。我是艾爾多，本鎮的迎接者。我的工作是迎接來訪的人，並且回答他們的問題。歡迎來到克拉馬斯。你是誰呢？}
@@ -120,3 +120,8 @@
 {910}{}{我好久沒有看到伊克了。我也不知道他到那裡去了。你可以到澡堂去找珍妮。她跟伊克相當的熟．．懂嗎？}
 {911}{}{讓我問你一些其它的事。}
 {912}{}{艾爾多，那就是所有我想知道的了。}
+
+#added by killap
+{920}{}{你好，朋友。你是否還有$20的閒錢來讓我們的友誼更上一層樓？}
+{921}{}{更多？好。}
+{922}{}{我沒有可以給的，再見。}
