@@ -1,28 +1,28 @@
 #############################################################
-#  Message File: Generic.msg				    #
-#							    #
+#  Message File: Generic.msg                                #
+#                                                           #
 #  Note: Characters within curly braces (like line 100)     #
-#	 will be read in as a message string. Caution	    #
-#	 should be used when making comments. All comments  #
-#	 should be prepended with a pound symbol for	    #
-#	 visual ease. This does not comment out the line    #
-#	 though.					    #
-#							    #
-#  Purpose: This message file contains the information	    #
-#	    concerning doors in a locked state, trapped     #
-#	    state, locked and trapped state.		    #
-#							    #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
 #  Log: Please note any changes that have been made to this #
-#	file and comment which lines have changed.	    #
-#							    #
-#  Created: October 1, 1997				    #
-#							    #
-#  Updated:						    #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: October 1, 1997                                 #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
 #  The following lines are for giving out experience points #
-#  to the player.					    #
+#  to the player.                                           #
 #############################################################
 
 # Player gains [x] of experience points
@@ -56,7 +56,7 @@
 
 #############################################################
 #  The following lines are generic noises that the player   #
-#  makes when he/she has a low i.q. level.		    #
+#  makes when he/she has a low i.q. level.                  #
 #############################################################
 {300}{}{哦。}
 {301}{}{噢。}
@@ -64,7 +64,7 @@
 {303}{}{嘿。}
 
 #############################################################
-#  The following lines are generic non-spoken dialogs	    #
+#  The following lines are generic non-spoken dialogs       #
 #############################################################
 {350}{}{[結束]}
 {351}{}{[再見]}
@@ -74,14 +74,14 @@
 {355}{}{[給錢]}
 
 #############################################################
-#  The following lines are generic departure dialogs	    #
+#  The following lines are generic departure dialogs        #
 #############################################################
 {375}{}{再見。}
 {376}{}{再見。}
 
 #############################################################
-#  The following lines are for special events in the	    #
-#  dude_obj						    #
+#  The following lines are for special events in the        #
+#  dude_obj                                                 #
 #############################################################
 {400}{}{因為裘依醫生的致命的注射而死了。}
 
@@ -89,7 +89,7 @@
 
 #############################################################
 #  The following lines are for Miscelleous things needed    #
-#  throughout the game. 				    #
+#  throughout the game.                                     #
 #############################################################
 
 {900}{}{老舊而且破爛的門，看來可以裝炸藥將它炸開。}
@@ -114,7 +114,7 @@
 
 
 #############################################################
-#  Quest Information. Mainly used for solving quests	    #
+#  Quest Information. Mainly used for solving quests        #
 #############################################################
 
 {1000}{}{你考過了公民考試。}
@@ -136,6 +136,9 @@
 {1016}{}{糟了，我差一點忘了伊甸園創造器。我想這附近會有一個吧。}
 {1017}{}{門被你的伊甸園創造器密碼炸開了。}
 {1018}{}{你殺光了青蛙．摩頓幫派的人。}
+{1019}{}{你把電擊板關掉了。}
+{1020}{}{你調解了酒吧的爭吵。}
+{1021}{}{你把機器人維修站的終端機關掉了。}
 
 {1050}{}{你把蠍子毒磨碎做成解毒劑了。}
 {1051}{}{你混合山德根和布拉克花成為了治傷藥了。}
@@ -332,7 +335,7 @@
 {3700}{}{}
 
 ######
-#  Caught Sneaking (Warning)	(3900-4199)
+#  Caught Sneaking (Warning)    (3900-4199)
 ######
 
 # Tough Guard (3900-3925)
@@ -393,7 +396,7 @@
 {4600}{}{}
 
 ######
-# Call for Help Others	  (4800-5099)
+# Call for Help Others    (4800-5099)
 ######
 
 # Tough Guard (4800-4825)
@@ -412,7 +415,7 @@
 {4900}{}{}
 
 ######
-#  Attack Player  [War Cries]	(5100-5399)
+#  Attack Player  [War Cries]   (5100-5399)
 ######
 
 # Tough Guard (5100-5125)
@@ -456,3 +459,12 @@
 
 # default join me again message
 {10100}{}{我們走吧。}
+
+#added by killap - default msgs
+{20000}{}{那沒有作用。}
+
+#added by killap - default msgs
+{20100}{}{這扇門沒有鎖。}
+
+#added by killap
+{30000}{}{你從自己的部落偷了東西。}
