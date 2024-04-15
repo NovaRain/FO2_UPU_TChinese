@@ -1306,7 +1306,7 @@
 {1388}{}{}                              # ctPlans.int     ; Vertibird EXP Spatial Script
 {1389}{}{}                              # ctK9Part.int    ; K9 Part EXP Spatial Script
 {1390}{}{}                              # csArea2.int     ; Script to signal if dude enters an area
-{1391}{}{}                              # csOpen2.int      ; Script to signal if dude uses door w/o permision (in Navarro)
+{1391}{}{}                              # csOpen2.int     ; Script to signal if dude uses door w/o permision (in Navarro)
 {1392}{}{}                              # ctSound.int     ; Soundproof Room Spatial Script
 {1393}{}{}                              # csOpen3.int     ; Script to signal if dude uses door w/o permis
 {1394}{}{¨p³c°sªÌ}                      # ECTlkMon.int    ; Talking Moonshiners
@@ -1319,3 +1319,8 @@
 {1401}{}{ÂêÂd}                          # niBisHLk.int    ; New Reno Bishop Hard Locker
 {1402}{}{ªù}                            # niBisHDr.int    ; New Reno Bishop Hard Locked Door
 {1403}{}{}                              # ntRicRom.int    ; New Reno Richard Wright Room Spacial
+{1404}{}{}                          # MIMirDor.int    ; Miria's Bedroom Door  
+{1405}{}{}                          # MIDavDor.int    ; Davin's Bedroom Door 
+{1406}{}{}                          # SIPtbox2.int    ; box where Merk hides your car trunk stuff
+{1407}{}{}                          # sfshutl1.int    ; map script to Hubologist entrance (shuttle)
+{1408}{}{}                          # patchinf.int    ; patchinf
