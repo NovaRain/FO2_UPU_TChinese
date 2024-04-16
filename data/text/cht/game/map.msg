@@ -3,8 +3,6 @@
 # Messages for Maps
 #
 
-
-
 #
 # Map Names for (Automap) Descriptions
 #	Note: This order must *NOT* change!
@@ -18,66 +16,66 @@
 #	  descriptions are just the map name itself (this also helps
 #	  pinpoint unfinished ones when you go through here).
 #
-{100}{}{沙漠}				// DESERT1.MAP
-{101}{}{沙漠}			    // DESERT2.MAP
-{102}{}{沙漠}			    // DESERT3.MAP
-{103}{}{阿羅由} 			  // arcaves.MAP
-{104}{}{阿羅由} 			  // arvillag.MAP
-{105}{}{阿羅由} 			  // arbridge.MAP
-{106}{}{丹恩城} 			  // denbus1.MAP
-{107}{}{丹恩城} 			     // denbus2.MAP
-{108}{}{丹恩城} 			     // denres1.MAP
-{109}{}{克拉馬斯城}			  // .MAP  ;Downtown
-{110}{}{克拉馬斯城}			     // .MAP  ;Mall
-{111}{}{克拉馬斯城}			     // .MAP  ;Rat Caves
-{112}{}{克拉馬斯城}			     // .MAP  ;Toxic Caves
-{113}{}{克拉馬斯城}			     // .MAP  ;Trapping Caves
-{114}{}{克拉馬斯城}			     // .MAP  ;Grazing Area
-{115}{}{地下掩體市} 		      // vctyctyd.MAP
-{116}{}{地下掩體市} 		      // vctydwtn.MAP
-{117}{}{地下掩體市} 		      // vctycocl.MAP
-{118}{}{error:Map Name} 		       // .MAP
-{119}{}{城市遺跡}			     // CITY1.MAP
-{120}{}{海灣}				      // COAST1.MAP
-{121}{}{海灣}				     // COAST2.MAP
-{122}{}{沙漠}				     // COLATRUK.MAP
-{123}{}{沙漠}				     // FSAUSER.MAP
-{124}{}{error:Map Name} 			     // RAIDERS.MAP
-{125}{}{error:Map Name} 			 // SHADYE.MAP
-{126}{}{error:Map Name} 			 // SHADYW.MAP
-{127}{}{error:Map Name} 				// GLOWENT.MAP
-{128}{}{error:Map Name} 			    // LAADYTUM.MAP
-{129}{}{error:Map Name} 			    // LAFOLLWR.MAP
-{130}{}{error:Map Name} 		       // MBENT.MAP
-{131}{}{error:Map Name} 		       // MBSTRG12.MAP
-{132}{}{error:Map Name} 		       // MBVATS12.MAP
-{133}{}{error:Map Name} 		       // MSTRLR12.MAP
-{134}{}{error:Map Name} 		       // MSTRLR34.MAP
-{135}{}{error:Map Name} 			    // V13ENT.MAP
-{136}{}{error:Map Name} 				 // HUBENT.MAP
-{137}{}{哈伯}				      // DETHCLAW.MAP
-{138}{}{哈伯}				       // HUBDWNTN.MAP
-{139}{}{哈伯}				       // HUBHEIGT.MAP
-{140}{}{哈伯}				       // HUBOLDTN.MAP
-{141}{}{哈伯}				       // HUBWATER.MAP
-{142}{}{Glow}				      // GLOW1.MAP
-{143}{}{Glow}				      // GLOW2.MAP
-{144}{}{Boneyard}			      // LABLADES.MAP
-{145}{}{Boneyard}			      // LARIPPER.MAP
-{146}{}{Boneyard}			      // LAGUNRUN.MAP
-{147}{}{Cathedral}			      // CHILDEAD.MAP
-{148}{}{Military}			      // MBDEAD.MAP
-{149}{}{Mountains}			      // MOUNTN1.MAP
-{150}{}{Mountains}			      // MOUNTN2.MAP
-{151}{}{Desert} 			      // FOOT.MAP
-{152}{}{Desert} 			      // TARDIS.MAP
-{153}{}{Desert} 			      // TALKCOW.MAP
-{154}{}{Desert} 			      // USEDCAR.MAP
-{155}{}{Brotherhood}			      // BRODEAD.MAP
-{156}{}{Desert} 			      // DESCRVN1.MAP
-{157}{}{Desert} 			      // DESCRVN2.MAP
-{158}{}{Mountains}			      // MNTCRVN1.MAP
-{159}{}{Mountains}			      // MNTCRVN2.MAP
+{100}{}{沙漠}                             // DESERT1.MAP
+{101}{}{沙漠}                             // DESERT2.MAP
+{102}{}{沙漠}                             // DESERT3.MAP
+{103}{}{阿羅由}                           // arcaves.MAP
+{104}{}{阿羅由}                           // arvillag.MAP
+{105}{}{阿羅由}                           // arbridge.MAP
+{106}{}{丹恩城}                           // denbus1.MAP
+{107}{}{丹恩城}                           // denbus2.MAP
+{108}{}{丹恩城}                           // denres1.MAP
+{109}{}{克拉馬斯城}                       // .MAP  ;Downtown
+{110}{}{克拉馬斯城}                       // .MAP  ;Mall
+{111}{}{克拉馬斯城}                       // .MAP  ;Rat Caves
+{112}{}{克拉馬斯城}                       // .MAP  ;Toxic Caves
+{113}{}{克拉馬斯城}                       // .MAP  ;Trapping Caves
+{114}{}{克拉馬斯城}                       // .MAP  ;Grazing Area
+{115}{}{地下掩體市}                       // vctyctyd.MAP
+{116}{}{地下掩體市}                       // vctydwtn.MAP
+{117}{}{地下掩體市}                       // vctycocl.MAP
+{118}{}{error:Map Name}                        // .MAP
+{119}{}{城市遺跡}                              // CITY1.MAP
+{120}{}{海灣}                                  // COAST1.MAP
+{121}{}{海灣}                                  // COAST2.MAP
+{122}{}{沙漠}                                  // COLATRUK.MAP
+{123}{}{沙漠}                                  // FSAUSER.MAP
+{124}{}{error:Map Name}                              // RAIDERS.MAP
+{125}{}{error:Map Name}                          // SHADYE.MAP
+{126}{}{error:Map Name}                          // SHADYW.MAP
+{127}{}{error:Map Name}                                 // GLOWENT.MAP
+{128}{}{error:Map Name}                             // LAADYTUM.MAP
+{129}{}{error:Map Name}                             // LAFOLLWR.MAP
+{130}{}{error:Map Name}                        // MBENT.MAP
+{131}{}{error:Map Name}                        // MBSTRG12.MAP
+{132}{}{error:Map Name}                        // MBVATS12.MAP
+{133}{}{error:Map Name}                        // MSTRLR12.MAP
+{134}{}{error:Map Name}                        // MSTRLR34.MAP
+{135}{}{error:Map Name}                             // V13ENT.MAP
+{136}{}{error:Map Name}                                  // HUBENT.MAP
+{137}{}{哈伯}                                 // DETHCLAW.MAP
+{138}{}{哈伯}                                 // HUBDWNTN.MAP
+{139}{}{哈伯}                                 // HUBHEIGT.MAP
+{140}{}{哈伯}                                 // HUBOLDTN.MAP
+{141}{}{哈伯}                                 // HUBWATER.MAP
+{142}{}{Glow}                                 // GLOW1.MAP
+{143}{}{Glow}                                 // GLOW2.MAP
+{144}{}{Boneyard}                             // LABLADES.MAP
+{145}{}{Boneyard}                             // LARIPPER.MAP
+{146}{}{Boneyard}                             // LAGUNRUN.MAP
+{147}{}{Cathedral}                            // CHILDEAD.MAP
+{148}{}{Military}                             // MBDEAD.MAP
+{149}{}{Mountains}                            // MOUNTN1.MAP
+{150}{}{Mountains}                            // MOUNTN2.MAP
+{151}{}{Desert}                               // FOOT.MAP
+{152}{}{Desert}                               // TARDIS.MAP
+{153}{}{Desert}                               // TALKCOW.MAP
+{154}{}{Desert}                               // USEDCAR.MAP
+{155}{}{Brotherhood}                          // BRODEAD.MAP
+{156}{}{Desert}                               // DESCRVN1.MAP
+{157}{}{Desert}                               // DESCRVN2.MAP
+{158}{}{Mountains}                            // MNTCRVN1.MAP
+{159}{}{Mountains}                            // MNTCRVN2.MAP
 {160}{}{Viper Camp}
 {161}{}{Desert}
 {162}{}{Mountains}
@@ -168,7 +166,7 @@
 {256}{}{}
 # 19: , .MAP ; Modoc Bed & Breakfast
 {257}{}{旅店}
-{258}{}{}
+{258}{}{旅店}
 {259}{}{}
 # 20: , .MAP ; Modoc Brahmin Pastures
 {260}{}{牧場}
@@ -240,7 +238,7 @@
 {310}{}{１５號避難所第三區}
 # 37: Vault 15, .MAP
 {311}{}{流浪漢}
-{312}{}{}
+{312}{}{流浪漢}
 {313}{}{}
 # 38: Vault 15, .MAP
 {314}{}{流浪漢}
@@ -346,7 +344,7 @@
 {389}{}{礦坑第一區}
 {390}{}{礦坑第二區}
 {391}{}{}
-# 64: Redding Downtown	RedDown.MAP
+# 64: Redding Downtown  RedDown.MAP
 {392}{}{市中心}
 {393}{}{市中心}
 {394}{}{市中心}
@@ -354,7 +352,7 @@
 {395}{}{礦坑入口}
 {396}{}{礦坑入口}
 {397}{}{礦坑入口}
-# 66: Redding Downtown Tunnels	RedDTun.MAP
+# 66: Redding Downtown Tunnels  RedDTun.MAP
 {398}{}{隧道}
 {399}{}{隧道}
 {400}{}{隧道}
@@ -390,7 +388,7 @@
 {422}{}{山區}
 {423}{}{山區}
 {424}{}{山區}
-# 75: Random ncounter Mountain 2
+# 75: Random Encounter Mountain 2
 {425}{}{山區}
 {426}{}{山區}
 {427}{}{山區}
@@ -434,23 +432,23 @@
 {455}{}{海灣}
 {456}{}{海灣}
 {457}{}{海灣}
-# 86. Random Eer Coast 4
+# 86. Random Encounter Coast 4
 {458}{}{海灣}
 {459}{}{海灣}
 {460}{}{海灣}
-# 87. Random Eer Coast 5
+# 87. Random Encounter Coast 5
 {461}{}{海灣}
 {462}{}{海灣}
 {463}{}{海灣}
-# 88. Random Eer Coast 6
+# 88. Random Encounter Coast 6
 {464}{}{海灣}
 {465}{}{海灣}
 {466}{}{海灣}
-# 89. Random Eer Coast 7
+# 89. Random Encounter Coast 7
 {467}{}{海灣}
 {468}{}{海灣}
 {469}{}{海灣}
-# 90. Random Eer Coast 8
+# 90. Random Encounter Coast 8
 {470}{}{海灣}
 {471}{}{海灣}
 {472}{}{海灣}
@@ -470,27 +468,27 @@
 {482}{}{沙漠}
 {483}{}{沙漠}
 {484}{}{沙漠}
-# 95. Broken om Encounter Mountain
+# 95. Broken Hills Random Encounter Mountain
 {485}{}{山區}
 {486}{}{山區}
 {487}{}{山區}
-# 96. Special: Whale
+# 96. Special Encounter: Whale
 {488}{}{沙漠}
 {489}{}{沙漠}
 {490}{}{沙漠}
-# 97. Special: Tin Woodsman
+# 97. Special Encounter: Tin Woodsman
 {491}{}{沙漠}
 {492}{}{沙漠}
 {493}{}{沙漠}
-# 98. Special: Talking Head
+# 98. Special Encounter: Talking Head
 {494}{}{沙漠}
 {495}{}{沙漠}
 {496}{}{沙漠}
-# 99. Special: Federation Shuttle
+# 99. Special Encounter: Federation Shuttle
 {497}{}{沙漠}
 {498}{}{沙漠}
 {499}{}{沙漠}
-# 100. Speciar: Unwashed Villagers
+# 100. Special Encounter: Unwashed Villagers
 {500}{}{沙漠}
 {501}{}{沙漠}
 {502}{}{沙漠}
@@ -522,7 +520,7 @@
 {521}{}{沙漠}
 {522}{}{沙漠}
 {523}{}{沙漠}
-# 108. Specialer: Mad Brahmin
+# 108. Special Encounter: Mad Brahmin
 {524}{}{沙漠}
 {525}{}{沙漠}
 {526}{}{沙漠}
@@ -534,11 +532,11 @@
 {530}{}{海岸線}
 {531}{}{海岸線}
 {532}{}{海岸線}
-# 111. Coast En
+# 111. Coast Encounter 11
 {533}{}{海岸線}
 {534}{}{海岸線}
 {535}{}{海岸線}
-# 112. Coast En
+# 112. Coast Encounter 12
 {536}{}{海岸線}
 {537}{}{海岸線}
 {538}{}{海岸線}
@@ -546,19 +544,19 @@
 {539}{}{沙漠}
 {540}{}{沙漠}
 {541}{}{沙漠}
-# 114. Desert Er 9
+# 114. Desert Encounter 9
 {542}{}{沙漠}
 {543}{}{沙漠}
 {544}{}{沙漠}
-# 115. Desert Er 10
+# 115. Desert Encounter 10
 {545}{}{沙漠}
 {546}{}{沙漠}
 {547}{}{沙漠}
-# 116. Desert Er 11
+# 116. Desert Encounter 11
 {548}{}{沙漠}
 {549}{}{沙漠}
 {550}{}{沙漠}
-# 117. Desert Er 12
+# 117. Desert Encounter 12
 {551}{}{沙漠}
 {552}{}{沙漠}
 {553}{}{沙漠}
@@ -566,11 +564,11 @@
 {554}{}{山洞}
 {555}{}{山洞}
 {556}{}{山洞}
-# 119. Cavern er 6
+# 119. Cavern Encounter 6
 {557}{}{山洞}
 {558}{}{山洞}
 {559}{}{山洞}
-# 120. Cavern er 7
+# 120. Cavern Encounter 7
 {560}{}{山洞}
 {561}{}{山洞}
 {562}{}{山洞}
@@ -578,15 +576,15 @@
 {563}{}{山區}
 {564}{}{山區}
 {565}{}{山區}
-# 122. Mountaier 4
+# 122. Mountain Encounter 4
 {566}{}{山區}
 {567}{}{山區}
 {568}{}{山區}
-# 123. Mountaier 5
+# 123. Mountain Encounter 5
 {569}{}{山區}
 {570}{}{山區}
 {571}{}{山區}
-# 124. Mountaier 6
+# 124. Mountain Encounter 6
 {572}{}{山區}
 {573}{}{山區}
 {574}{}{山區}
@@ -658,23 +656,23 @@
 {623}{}{摧毀的城市}
 {624}{}{摧毀的城市}
 {625}{}{摧毀的城市}
-# 142. City Encount
+# 142. City Encounter 4
 {626}{}{摧毀的城市}
 {627}{}{摧毀的城市}
 {628}{}{摧毀的城市}
-# 143. City Encount
+# 143. City Encounter 5
 {629}{}{摧毀的城市}
 {630}{}{摧毀的城市}
 {631}{}{摧毀的城市}
-# 144. City Encount
+# 144. City Encounter 6
 {632}{}{摧毀的城市}
 {633}{}{摧毀的城市}
 {634}{}{摧毀的城市}
-# 145. City Encount
+# 145. City Encounter 7
 {635}{}{摧毀的城市}
 {636}{}{摧毀的城市}
 {637}{}{摧毀的城市}
-# 146. City Encount
+# 146. City Encounter 8
 {638}{}{摧毀的城市}
 {639}{}{摧毀的城市}
 {640}{}{摧毀的城市}
@@ -685,7 +683,7 @@
 # 148. Shi Temple
 {644}{}{始族神廟}
 {645}{}{始族神廟}
-{646}{}{始族神廟}
+{646}{}{兄弟會基地}
 # 149. In Game Movie
 {647}{}{沙漠}
 {648}{}{沙漠}
@@ -694,7 +692,14 @@
 {650}{}{沙漠}
 {651}{}{沙漠}
 {652}{}{沙漠}
-
+# 151. Abbey Entrance
+{653}{}{入口}
+{654}{}{樓下}
+{655}{}{沙漠}
+# 151. EPA
+{656}{}{}
+{657}{}{}
+{658}{}{}
 
 #
 #	Short City names
@@ -716,9 +721,9 @@
 {1514}{}{三番市}
 {1515}{}{那瓦羅}
 {1516}{}{英克雷}
-{1517}{}{沙漠}		 # Abbey
-{1518}{}{沙漠}		 # Primitive Tribe
-{1519}{}{沙漠}		 # EPA
+{1517}{}{沙漠}          # Abbey
+{1518}{}{沙漠}          # Primitive Tribe
+{1519}{}{沙漠}          # EPA
 {1520}{}{鬼農場}
 {1521}{}{沒能源的車}
 {1522}{}{阿羅由}
@@ -746,5 +751,7 @@
 {1544}{}{山洞}
 {1545}{}{第１３號避難所}
 {1546}{}{假的第１３號避難所}
-{1547}{}{奇特遭遇}
+{1547}{}{隨機遭遇}
 {1548}{}{馬廄}
+{1549}{}{修道院}
+{1550}{}{EPA}

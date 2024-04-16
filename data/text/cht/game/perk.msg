@@ -239,10 +239,10 @@
 {1210}{}{你的生命點數因為你時常喝醉酒而增加了一些。}  # Alcohol Enhanced hit points II
 {1211}{}{你的生命點數因為你時常喝醉酒而減少了一些。}  # Alcohol Lowered hit points
 {1212}{}{你的生命點數因為你時常喝醉酒而減少了一些。}  # Alcohol Lowered hit points II
-{1209}{}{你的生命點數因為你時常使用自動醫生而增加了一些。}  # Autodoc Enhanced hit points
-{1210}{}{你的生命點數因為你時常使用自動醫生而增加了一些。}  # Autodoc Enhanced hit points II
-{1211}{}{你的生命點數因為你時常使用自動醫生而減少了一些。}  # Autodoc Lowered hit points
-{1212}{}{你的生命點數因為你時常使用自動醫生而減少了一些。}
+{1213}{}{你的生命點數因為你時常使用自動醫生而增加了一些。}  # Autodoc Enhanced hit points
+{1214}{}{你的生命點數因為你時常使用自動醫生而增加了一些。}  # Autodoc Enhanced hit points II
+{1215}{}{你的生命點數因為你時常使用自動醫生而減少了一些。}  # Autodoc Lowered hit points
+{1216}{}{你的生命點數因為你時常使用自動醫生而減少了一些。}
 {1217}{}{你擁有拋擲牛隻的怪力.}
 {1218}{}{武器增加擊倒的力量}
 {1219}{}{好消息是在你身邊所有人都有更多的特別失敗率，壞消息是你也一樣！}
