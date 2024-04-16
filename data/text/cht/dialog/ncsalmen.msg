@@ -19,9 +19,8 @@
 # 3. FLOAT DIALOGUE: PLAYER = FEMALE/MALE, MADE MAN, FA=SALVATORE, PRIZEFIGHTER, PORN STAR [SNEAK]
 {170}{}{你為何在這裡潛行？}
 {171}{}{你為何在這裡潛行？有人要抓你嗎？}
-{172}{}{你不想要惹人注意嗎？}
-{172}{}{你還想繼續保持潛行嗎？}
-{173}{}{你為何在這裡潛行？有人要抓你嗎？}
+{172}{}{你不想引人注意嗎？}
+{173}{}{你為何在這裡潛行？有人在追你嗎？}
 
 # 4. FLOAT DIALOGUE: PLAYER = MADE MAN, FA=NOT SALVATORE
 {180}{}{嗯，如果不是那}
