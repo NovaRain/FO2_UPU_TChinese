@@ -88,7 +88,7 @@
 # 10. JACKPOT, McGEE COMBAT (8)
 {315}{}{и⊿ぐ或弧单帝}
 {316}{}{и⊿ぐ或弧单帝}
-{317}{}{(非称ㄓ褐簀琌ぐ或常⊿Τ) иㄓ褐簀㎡}
+{317}{}{(非称˙簀琌ぐ或常⊿Τ) и˙簀㎡}
 {318}{}{琵и倒}
 {319}{}{揪}
 {320}{}{и⊿猔種ǐ}
