@@ -1,16 +1,16 @@
 #############################################################
-#  Message File: obj_dude.msg				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: April 14, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: obj_dude.msg                               #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: April 14, 1998                                  #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{}
 {101}{}{}

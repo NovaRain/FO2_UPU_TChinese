@@ -1,22 +1,22 @@
 #############################################################
-#  Message File: ACMynoc.msg				    #
-#							    #
-#	Body Type:  NMPRIM				    #
-#	Combat AI: Berzerker				    #
-#	Weapons: Sledgehammer[in hand]			    #
-#	HP: 75						    #
-#	Skills to note: 80% Throwing			    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: December 01, 1997				    #
-#							    #
-#  Updated:						    #
+#  Message File: ACMynoc.msg                                #
+#                                                           #
+#       Body Type:  NMPRIM                                  #
+#       Combat AI: Berzerker                                #
+#       Weapons: Sledgehammer[in hand]                      #
+#       HP: 75                                              #
+#       Skills to note: 80% Throwing                        #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 
 {100}{}{你看到守橋兵。}
@@ -25,7 +25,7 @@
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
-#  Tool.						    #
+#  Tool.                                                    #
 #############################################################
 
 {150}{}{站在你面前的是個強壯的戰士，手持一隻矛。}
@@ -111,6 +111,7 @@
 {313}{}{謝謝你，我的朋友－－那會幫我很多忙的。}
 {314}{}{是，但我剛剛在看你的矛。它看起來有一些不同。}
 
+
 # added in for time limit
 {400}{}{歡迎回家，獲選者！你找到避難所了嗎？找到了伊甸園創造器了嗎？}
 {401}{}{沒有。}
@@ -147,7 +148,7 @@
 {500}{}{你跟長老談過了嗎？}
 
 #############################################################
-#  TELL - ME - ABOUTS					    #
+#  TELL - ME - ABOUTS                                       #
 #############################################################
 {1000}{}{長老}
 {1001}{}{創造者}

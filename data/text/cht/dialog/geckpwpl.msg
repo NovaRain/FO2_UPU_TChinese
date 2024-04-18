@@ -1,9 +1,9 @@
 #############################################################
-#  Message File: Geckpwpl.msg				    #
-#							    #
-#  Created: September 2, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: Geckpwpl.msg                               #
+#                                                           #
+#  Created: September 2, 1998                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 {100}{}{你進入了蜥蝪城發電場。}

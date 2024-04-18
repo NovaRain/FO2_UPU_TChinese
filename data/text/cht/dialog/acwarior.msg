@@ -1,30 +1,30 @@
 #############################################################
-#  Message File: ACWarior.msg				    #
-#							    #
+#  Message File: ACWarior.msg                               #
+#                                                           #
 #  Note: Characters within curly braces (like line 100)     #
-#	 will be read in as a message string. Caution	    #
-#	 should be used when making comments. All comments  #
-#	 should be prepended with a pound symbol for	    #
-#	 visual ease. This does not comment out the line    #
-#	 though.					    #
-#							    #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
 #  Purpose: This message file contains the dialog for a     #
-#	    new character from which is used by the	    #
-#	    design tool. It will be updated using the	    #
-#	    the tool. This is just a tool file, and not     #
-#	    meant to be used in the game.		    #
-#							    #
+#           new character from which is used by the         #
+#           design tool. It will be updated using the       #
+#           the tool. This is just a tool file, and not     #
+#           meant to be used in the game.                   #
+#                                                           #
 #  Log: Please note any changes that have been made to this #
-#	file and comment which lines have changed.	    #
-#							    #
-#  Created: December 01, 1997				    #
-#							    #
-#  Updated:						    #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到一個土人。}
 {101}{}{你看到一個土人。}
@@ -32,7 +32,7 @@
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
-#  Tool.						    #
+#  Tool.                                                    #
 #############################################################
 
 {150}{}{在你面前站著一個相當強壯的戰士，穿著用毛皮製成的褲子。}
@@ -85,27 +85,27 @@
 
 
 #############################################################
-#  TELL - ME - ABOUTS					    #
+#  TELL - ME - ABOUTS                                       #
 #############################################################
 
-#		       #
-#		       #
+#                      #
+#                      #
 # TELL ME ABOUT STUFF  #
 #      "my name"       #
 #      (970-979)       #
-#		       #
-#		       #
+#                      #
+#                      #
 {970}{}{那是我的名字。}
 {971}{}{你正與我在說話。}
 {972}{}{真是一個笨問題，那就是我。}
 
-#		       #
-#		       #
+#                      #
+#                      #
 # TELL ME ABOUT STUFF  #
 #     "don't know"     #
 #      (980-989)       #
-#		       #
-#		       #
+#                      #
+#                      #
 {980}{}{我對那一無所知。}
 {981}{}{抱歉，不知道。}
 {982}{}{從來都沒有聽過。}

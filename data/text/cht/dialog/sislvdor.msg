@@ -1,32 +1,30 @@
 #############################################################
-#  Message File: Door.msg				    #
-#							    #
+#  Message File: Door.msg                                   #
+#                                                           #
 #  Note: Characters within curly braces (like line 100)     #
-#	 will be read in as a message string. Caution	    #
-#	 should be used when making comments. All comments  #
-#	 should be prepended with a pound symbol for	    #
-#	 visual ease. This does not comment out the line    #
-#	 though.					    #
-#							    #
-#  Purpose: This message file contains the information	    #
-#	    concerning doors in a locked state, trapped     #
-#	    state, locked and trapped state.		    #
-#							    #
+#        will be read in as a message string. Caution       #
+#        should be used when making comments. All comments  #
+#        should be prepended with a pound symbol for        #
+#        visual ease. This does not comment out the line    #
+#        though.                                            #
+#                                                           #
+#  Purpose: This message file contains the information      #
+#           concerning doors in a locked state, trapped     #
+#           state, locked and trapped state.                #
+#                                                           #
 #  Log: Please note any changes that have been made to this #
-#	file and comment which lines have changed.	    #
-#	April 19,1998 nbk: added message line to be used    #
-#			   for doors opened with keys.	    #
-#							    #
-#  Created: September 26, 1997				    #
-#							    #
-#  Updated:						    #
+#       file and comment which lines have changed.          #
+#                                                           #
+#  Created: September 26, 1997                              #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
 #  The following lines are for description of the door. The #
 #  first lines, line 100-1, are for the look_at_proc. The   #
 #  remainder until the next block are for description_proc  #
-#  based one skill and perception success.		    #
+#  based one skill and perception success.                  #
 #############################################################
 
 # look_at_proc
@@ -127,7 +125,7 @@
 #############################################################
 #  The following lines are for damage done to the player or #
 #  critter who tried to open the door, or failed a traps    #
-#  roll.						    #
+#  roll.                                                    #
 #############################################################
 
 # The following sets of lines are to be translated as:
@@ -144,7 +142,7 @@
 
 #############################################################
 #  The following lines are for when the player uses skills  #
-#  on the door. 					    #
+#  on the door.                                             #
 #############################################################
 
 # Player uses a skill on the door
@@ -190,7 +188,7 @@
 
 #############################################################
 #  The following lines are for when the player tries to     #
-#  use items on the door which are not lockpicks.	    #
+#  use items on the door which are not lockpicks.           #
 #############################################################
 
 # Player uses an item on the door
@@ -228,13 +226,13 @@
 {188}{}{點生命值。}
 
 #############################################################
-#  Damage done to the door due to explosives.		    #
+#  Damage done to the door due to explosives.               #
 #############################################################
 
 {193}{}{那門居然一點損傷都沒有。}
 
 #############################################################
-#  Reporting Door Status should it be used.		    #
+#  Reporting Door Status should it be used.                 #
 #############################################################
 
 {203}{}{那門看上去是鎖上的。}
@@ -248,7 +246,7 @@
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #
-#  closed to set the trap.				    #
+#  closed to set the trap.                                  #
 #############################################################
 
 # Player tries to set a trap on an open door

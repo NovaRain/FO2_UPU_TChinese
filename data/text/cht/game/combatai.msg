@@ -2842,7 +2842,7 @@
 {32365}{}{啦啦啦啦啦啦！}
 #
 ############################################
- # 32400 Badger
+# 32400 Badger
 ############################################
 #
 #  running away
@@ -3246,8 +3246,8 @@
 #                   36300 Kaga (Combat Messages - Area 3)
 #                   36400 Kaga (Combat Messages - Area 4)
 #                   36500 Kaga (Combat Messages - Area 5)
-#                   36600 Super Mutant (Master Army) - Hit Locations
-#                   36700 Super Mutant (Master Army) - Combat Messages
+#                   36600 Super mutant (Master Army) - Hit Locations
+#                   36700 Super mutant (Master Army) - Combat Messages
 #                   36800 Bounty Hunters - Combat Messages
 #
 ###############################################################
@@ -3525,7 +3525,7 @@
 #
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Hit Locations
+# 36600 Super mutant (Master Army) - Hit Locations
 ############################################
 #
 # target hit in head
@@ -3593,7 +3593,7 @@
 {36695}{}{你這小子，我會割斷你的命根子的。}
 #
 ############################################
-# 36600 Super Mutant (Master Army) - Combat Messages
+# 36600 Super mutant (Master Army) - Combat Messages
 ############################################
 #
 #  running away
@@ -3765,8 +3765,8 @@
 #                     42800 Miria
 #                     43200 Laddie
 #                     43600 Cyberdog
-#                     44000 Robo-Brain (Idiot/Chimp) **
-#                     44400 Robo-Brain (Human/Cybernetic) **
+#                     44000 Robobrain (Idiot/Chimp) **
+#                     44400 Robobrain (Human/Cybernetic) **
 #                     44800 Goris **
 #
 ###############################################################

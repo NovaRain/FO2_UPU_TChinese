@@ -1,22 +1,22 @@
 #############################################################
-#  Message File: ktgoo.msg				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: March 1, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: ktgoo.msg                                  #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: March 1, 1998                                   #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到毒黏液。}
 {101}{}{你看到毒黏液。}
 
 #############################################################
-#  The following lines are floaters for citizens	    #
+#  The following lines are floaters for citizens            #
 #############################################################
 
 {110}{}{啊，那黏液好燙。}

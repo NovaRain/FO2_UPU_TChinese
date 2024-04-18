@@ -1,22 +1,22 @@
 #############################################################
-#  Message File: ACBrahmn.msg				    #
-#							    #
-#	Body Type:  Brahmin				    #
-#	Combat AI: None 				    #
-#	Weapons: None					    #
-#	HP: ?						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: December 01, 1997				    #
-#							    #
-#  Updated:						    #
+#  Message File: ACBrahmn.msg                               #
+#                                                           #
+#       Body Type:  Brahmin                                 #
+#       Combat AI: None                                     #
+#       Weapons: None                                       #
+#       HP: ?                                               #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到一頭普通的雙頭牛。}
 {101}{}{雙頭牛之所以會多出一個頭，大概是因為受到放射線的影響所致吧。}

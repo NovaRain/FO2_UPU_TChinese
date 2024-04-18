@@ -272,6 +272,7 @@
 # New Reno Stables
 {670}{}{°¨´\}
 
+
 #
 # Terrain type names for world map hover button
 #

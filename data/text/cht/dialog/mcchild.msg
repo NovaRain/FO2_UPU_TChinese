@@ -1,22 +1,22 @@
 #############################################################
-#  Message File: mcChild.msg				     #
-#							    #
-#	Body Type: CHILD				    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP: 20						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: January 13, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: mcChild.msg                                 #
+#                                                           #
+#       Body Type: CHILD                                    #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 13, 1998                                #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{一個小男孩。}
 {101}{}{一個小女孩。}
@@ -24,7 +24,7 @@
 {120}{}{一個小男孩。他看起來很天真。}
 {121}{}{一個小女孩。她看起來很天真。}
 #############################################################
-#  The following lines are floaters for children	    #
+#  The following lines are floaters for children            #
 #############################################################
 {150}{}{不要吃我！}
 {151}{}{一個怪物！}

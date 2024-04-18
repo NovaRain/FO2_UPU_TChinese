@@ -1,30 +1,30 @@
 #############################################################
-#  Message File: ACVillgr.msg				    #
-#							    #
-#	Body Type:  NAROBE				    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP: 20						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: December 01, 1997				    #
-#							    #
-#  Updated:						    #
+#  Message File: ACVillgr.msg                               #
+#                                                           #
+#       Body Type:  NAROBE                                  #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
-{100}{}{你看到一個男的村人。}
-{101}{}{你看到一個女的村人。}
+{100}{}{你看到一個男性村民。}
+{101}{}{你看到一個女性村民。}
 
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
-#  Tool.						    #
+#  Tool.                                                    #
 #############################################################
 
 {150}{}{一個你村莊的村民。}
@@ -77,7 +77,7 @@
 
 
 #############################################################
-#  TELL - ME - ABOUTS					    #
+#  TELL - ME - ABOUTS                                       #
 #############################################################
 {1000}{}{長老}
 {1001}{}{創始者}

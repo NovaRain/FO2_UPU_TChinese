@@ -1,30 +1,29 @@
 #############################################################
-#  Message File: kchild.msg				    #
-#							    #
-#	Body Type: CHILD				    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP: 20						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: January 13, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: kchild.msg                                 #
+#                                                           #
+#       Body Type: CHILD                                    #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 13, 1998                                #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{§A¬Ý¨ì§J©Ô°¨´µ«°¤¤ªº¤@­Ó¤p«Ä¡C}
 {101}{}{§A¬Ý¨ì§J©Ô°¨´µ«°¤¤ªº¤@­Ó¤p«Ä¡C}
 
 #############################################################
-#  The following lines are floaters for children	    #
+#  The following lines are floaters for children            #
 #############################################################
-
 {150}{}{¤£­n¦Y§Ú¡I}
 {151}{}{°Ú°Ú¡I¤@­Ó©Çª«¡I}
 {152}{}{ª¨ª¨»¡§A¬O¤@­ÓÃa¤H¡C}
@@ -102,7 +101,7 @@
 {223}{}{¤@¤G¤T¡A¼K¡I}
 
 #############################################################
-#  TELL ME ABOUTS WILL BE REMOVED			    #
+#  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
 {1000}{}{Elder}
 {1001}{}{Founder}
@@ -121,14 +120,11 @@
 {1101}{}{Our great ancestor who gave us knowledge.}
 {1102}{}{The first to fight and win over chaos.}
 {1103}{}{That would be our beautiful village.}
-{1104}{}{That’s trading outpost a few days east of here.}
+{1104}{}{That's trading outpost a few days east of here.}
 {1105}{}{The Vault is heaven.}
 {1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the north part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
+{1107}{}{He heals us with his herbs and magic. He is in the north part of our village.}
+{1108}{}{He heals us with his herbs and magic. He is in the north part of our village.}
+{1109}{}{It is a magic powder which will heal you, but will make you sleepy.}
 {1110}{}{The Great Bridge exits our village in the south.}
 {1111}{}{He guards the bridge leading into our village.}

@@ -1,21 +1,21 @@
 #############################################################
-#  Message File: KCsally.msg				    #
-#							    #
-#	Body Type:					    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP:						    #
-#	Skills to note: Barter 75			    #
-#  Log: 						    #
-#							    #
-#  Created: January 15, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: KCsally.msg                                #
+#                                                           #
+#       Body Type:                                          #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP:                                                 #
+#       Skills to note: Barter 75                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 15, 1998                                #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 
 {100}{}{你看到一個有鼻子的女人。}
@@ -24,7 +24,7 @@
 #############################################################
 #  The following lines are for the dialog which the NPC     #
 #  says. This will be disorganized because of the Design    #
-#  Tool.						    #
+#  Tool.                                                    #
 #############################################################
 
 {200}{}{你好，我叫莎麗．丹頓。你有聽到嗎？}

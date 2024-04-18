@@ -1,22 +1,22 @@
 #############################################################
-#  Message File: ZCBrahmn.msg				    #
-#							    #
-#	Body Type:  Brahmin				    #
-#	Combat AI: None 				    #
-#	Weapons: None					    #
-#	HP: ?						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: December 01, 1997				    #
-#							    #
-#  Updated:						    #
+#  Message File: ZCBrahmn.msg                               #
+#                                                           #
+#       Body Type:  Brahmin                                 #
+#       Combat AI: None                                     #
+#       Weapons: None                                       #
+#       HP: ?                                               #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: December 01, 1997                               #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到一頭正常的雙頭牛。}
 {101}{}{雙頭牛之所以有兩個頭大概是因為放射線的關係吧。}

@@ -1,28 +1,28 @@
 #############################################################
-#  Message File: kcitizen.msg				    #
-#							    #
-#	Body Type:  NAROBE				    #
-#	Combat AI: Flee 				    #
-#	Weapons: None					    #
-#	HP: 20						    #
-#	Skills to note: None				    #
-#							    #
-#  Log: 						    #
-#							    #
-#  Created: January 13, 1998				    #
-#							    #
-#  Updated:						    #
+#  Message File: kcitizen.msg                               #
+#                                                           #
+#       Body Type:  NAROBE                                  #
+#       Combat AI: Flee                                     #
+#       Weapons: None                                       #
+#       HP: 20                                              #
+#       Skills to note: None                                #
+#                                                           #
+#  Log:                                                     #
+#                                                           #
+#  Created: January 13, 1998                                #
+#                                                           #
+#  Updated:                                                 #
 #############################################################
 
 #############################################################
-#  The following lines are for describing the NPC when	    #
-#  glanced and and examined.				    #
+#  The following lines are for describing the NPC when      #
+#  glanced and and examined.                                #
 #############################################################
 {100}{}{你看到一個克拉馬斯市民。}
 {101}{}{你看到一個克拉馬斯市民。}
 
 #############################################################
-#  The following lines are floaters for citizens	    #
+#  The following lines are floaters for citizens            #
 #############################################################
 
 {150}{}{你為什麼不滾回你的部落呢？}
@@ -75,7 +75,7 @@
 {204}{}{獵人區有好多的老鼠啊。}
 
 #############################################################
-#  TELL ME ABOUTS WILL BE REMOVED			    #
+#  TELL ME ABOUTS WILL BE REMOVED                           #
 #############################################################
 {1000}{}{長老}
 {1001}{}{創使者}

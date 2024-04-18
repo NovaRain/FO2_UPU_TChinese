@@ -115,7 +115,7 @@
 {304}{}{尚可}
 {305}{}{平均}
 {306}{}{好}
-{307}{}{非常好} 	# Abbreviated for character editor
+{307}{}{非常好}          # Abbreviated for character editor
 {308}{}{棒極了}
 {309}{}{卓越}
 {310}{}{英雄級}
