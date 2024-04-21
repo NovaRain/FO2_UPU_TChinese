@@ -1,0 +1,367 @@
+##############################################################################################################
+V4.1.8 08/03/14
+Fixed a bug that may cause a crash when restoring a maximized window after adjusting the 2X scaler.
+Fixed a typo in Russian ScrnSet.msg translation - fix supplied by Drobovik
+Fixed transitional fade not displaying from Main-menu to Load screen.
+Made it possible to use Alternate Mouse Input with Sfall's graphic modes.
+
+##############################################################################################################
+V4.1.7 14/12/13
+Fixed scriptable button function which was scaling up the button position as the resolution increased beyond 640x480.
+
+##############################################################################################################
+V4.1.6 12/12/13
+Fixed a goof up from the previous version causing crashes when creating scriptable windows.
+Fixed a bug when using the 2X scaler with windowed mode, causing the game to crash when moving the mouse beyond the window border.
+Fixed a rare bug that could sometimes cause a crash when updating palette entries.
+Adjusted transitional fade functions, in previous versions fade time speed was calculated before every transition, which is probably unnecessary in most cases. This should now only occur at resolution change.
+Added option to the config ini (FADE_TIME_RECALCULATE_ON_FADE). When enabled fade time will be recalculated before each transitional fade.
+
+##############################################################################################################
+V4.1.5 22/11/13
+Fixed a bug occasionally causing an inability to target an enemy with clear line of sight.
+Fixed a bug causing text in the interface-bar console to be cropped if a word was longer than the console width. Text is now cut with the remained being displayed on the next line. 
+Fixed scriptable window functions which were scaling up the window as the resolution increased beyond 640x480.
+Added option to the config ini for alternative mouse input (SCROLLWHEEL_FOCUS_PRIMARY_MENU). When accessing inventory, barter etc. Makes the scroll wheel focus control on to the PC items list when mouse is not hovering over another list.
+Added option to the config ini (FADE_TIME_MODIFIER). To decrease/increase transitional fade effect length.
+For alternative mouse input, fixed cursor position after using mouse menu.
+
+##############################################################################################################
+V4.1.4 02/10/13
+Added option in the config ini to reduce CPU usage. This is disabled by default as it conflicts with a similar function in Sfall.
+Removed the necessity to use windows message base mouse control over DirectInput. Alternative mouse input is disabled by default.
+In the config ini, moved ALT_MOUSE_INPUT setting from MAIN to new section INPUT.
+Added option to the config ini, EXTRA_WIN_MSG_CHECKS to INPUT section to fix "NOT RESPONDING" error in windowed mode.
+Added for alternative mouse input, console message scrolling via mouse wheel.
+Added for alternative mouse input, weapon slot switching via middle button.
+Added for alternative mouse input, scroll various lists by page when holding middle button down while scrolling.
+Added button to f2_res_Config.exe to open the f2_res.ini for editing. This should be useful for those with Win Vista+ and UAC_AWARE enabled.
+
+##############################################################################################################
+V4.1.3 18/09/13
+Fixed a bug causing the mouse to jiggle about.
+
+##############################################################################################################
+V4.1.0 14/09/13
+Fixed a bug causing the screen to flicker in some circumstances.
+Fixed a bug for non english versions causing text not to wrap in the in-game hi-res settings window.
+Fixed a bug causing a black box to obsure the screen in some circumstances.
+Fixed a bug causing incorrect mouse placement on the world map when using the 2x scaler.
+Fixed a bug causing the world map to be displayed on top of movies in some circumstances.
+Fixed a problem with the DirectX9 mode causing the creation of the movie buffers to fail.
+Replaced Mouse DirectInput with Windows functions and messages. This is required for graphics modes 1 and 2 but optional for mode 0(basic mode).
+Made the inventory scrollable with the mouse wheel as removing DirectInput for the mouse killed the like functions in sfall.
+Improved performance when using the DirectX9 mode.
+Made the patch more UAC compliant, allows Win Vista/7/8 users to change setting under "Program Files" without needing admin privileges.
+Various other minor tweaks and fixes.
+Added Russian translation text for the Screen Settings Window (ScrnSet.msg). (Created by Drobovik)
+
+##############################################################################################################
+V4.0.2 08/10/12
+Fixed a bug causing some objects and tiles to be lighted incorrectly.
+Fixed a bug causing the DirectX9 window mode to fail when the fullscreen refresh rate was set to something other than 0.
+Fixed a bug causing window mode to crash when adjusting the window size with the x2 scaler enabled.
+Fixed a bug which could cause non english text to be cropped in the widened interface-bar console.
+
+##############################################################################################################
+V4.0.1 29/09/12
+Fixed some dodgy code that may have been causing a crash when entering a map after adjusting hi-res settings.
+Removed the need to hold down a key when scrolling map view area. Scrolling is now disabled when another panel has focus, e.g. opening the in-game menu.
+For Fog Of War - Made Misc objects always visible as with Walls and Scenery.
+Added preliminary support for GVX's Chinese conversion.
+
+##############################################################################################################
+V4.0.0 22/09/12
+Fixed a bug in my world map code causing keyboard commands to fail.
+Fixed the pause screen for the hi-res patch.
+Fixed the vertical centring of windows when the main game window is not visible.
+Modified the wide interface-bar console to handle multibyte characters.(For GVX's Chinese conversion)
+Added the option to play the game in greyscale.(Pixote's idea)
+Added options to add Fog Of War elements to the game.
+Added new Graphic Output modes DirectDraw7 and DirectX9.
+Added the option to play in a resizable window.
+Added a basic scaling option.
+Overhauled the inGame Settings menu, adding some more options previously hidden in the f2_res.ini.
+Added new graphics for the dialog screen which have had a border added. (Art Created by Continuum)
+Adjusted Main-menu to work with sfall's new ability to move menu buttons and text.(For Fallout1 in Fallout2 engine conversion)
+Replaced the f2_res_patcher.exe with f2_res_Config.exe to edit hi-res settings outside of the game.
+Various other small fixes and code edits.
+
+##############################################################################################################
+V3.0.6 01/02/12
+Fixed a potential bug which may cause the splash window to not close.
+Fixed a problem with world map scrolling at 640x480 resolution.
+Added Russian language translation of ScrnSet.msg to the Extras folder.(Translated by Drobovik)
+
+##############################################################################################################
+V3.0.5 09/11/11
+Fixed a bug which sometimes caused only one word to be displayed per line in the console when using the wider interface-bar option.
+Added more display options for the interface-bar's alternate Ammo Metre.
+
+##############################################################################################################
+V3.0.4 02/11/11
+Fixed a bug which sometimes caused a blank screen when loading maps with multiple areas.
+Fixed incorrect placement of inventory/loot windows.
+Cleaned up mouse drawing beyond map edges.
+Added an option to increase the width of the interface bar allowing for a larger area to display game messages.
+Added 800 pixel wide Interface-bar Art created by Continuum.
+Adjusted the position of the Ammo Metre slightly so it is not drawn over the HP/AC counter rivets.
+(WIP)Added an option to display an alternate Ammo Metre which is wider and changes colour depending how much ammo remains in your current weapon.
+
+##############################################################################################################
+V3.0.2 27/06/11
+Added an option to increase the display time of the splash screen.
+Added angled clipping to clean up some original maps.
+Fixed a couple of problems that may have caused movie and dialog screens to crash.
+
+##############################################################################################################
+V3.0.1 06/06/11
+Fixed crashing when scrolling beyond the map hex grid. -caused by egg halo.
+Black areas are redrawn to removed artifacts when scrolling beyond the hex grid.
+Added visible mouse pointer beyond the hex grid.
+Made a small modification to the artemple map edge file for original fallout2 maps.
+
+##############################################################################################################
+V3.0 21/05/11
+Major code overhaul, most of patch re-written and/or optimised.
+Fixed Splash screen display.
+Added scaling options for Splash, Help, Death, Ending Slides and Main-menu Screens.
+Added option to load 8bit bmp's on Splash screen.
+Added option to set 32bit colour output.
+Text used in the Screen-Settings screen can now be edited in a msg file.
+Hi-res patch art and other files have been integrated into the fallout file system. And are now stored in f2_res.dat and can be patched in the data folder.
+Added map edge clipping option to hide the unused area beyond the map borders.
+Map edges are now the same no matter the resolution.
+Multiple edge sets can now be set up on a single map level.
+Map angled borders have been removed. All 10 000 tile and 40 000 hex positions can be utilised.
+Numerous other small fixes.
+
+##############################################################################################################
+V2.3 17/08/10
+Fixed a bug causing a crash if the resolution list was empty in the Screen Settings Window.
+<EXPERIMENTAL> Added an option "NumPathNodes" to the "f2_res.ini" to increase the the path finding range.
+
+##############################################################################################################
+V2.2c 16/04/10
+Fixed a minor bug causing some res specific map-edge data to be skipped in favour of the default values.
+Changed "Colour's" to "Colours" on the Screen settings window.
+Fixed the default scroll distance from the PC to equal the original distance when using 640x480.
+Added new map-edge data for the Restoration Project v2.0 created by Pixote, tweaked by me for resolutions from 640x480-1920x1200.
+Added new map edge data for the Megamod v2.42 created by Nirran.
+
+##############################################################################################################
+V2.2b 14/03/10
+Fixed a bug which caused the screen to go blank after one of Hakunin's dream movies played.
+
+##############################################################################################################
+V2.2a 05/09/09
+Added some extra text to memory error messages and the "f2_res_error.log" so that it's clear that they come from the Hi-Res patch.
+Added an option "SAFER_DISPLAY_LIST" to the "f2_res.ini". To help with crashes on some systems when using the Screen Settings Window.
+
+##############################################################################################################
+V2.2 10/08/09
+Improved the code for restarting fallout via the button in the Screen Settings window.
+Re-worked the code and ini files relating to hi-res map scroll boarders(edges).
+Added a control in the Sfall section of the Screen Settings window for the new 'GPUBlt'setting (Sfall v1.46 by Timeslip).
+
+##############################################################################################################
+V2.1 19/06/09
+Screen resolution settings are now accessed via a button on the 'Option/Game-Pref Screen' when accessed via the Main-menu.
+When subtitles are enabled, a space will automatically be created for them at the bottom of the movie screen.
+Added alternate art for the Iface Side-bars 'Metal looking' created by Simon Rawlins(Pixote).
+Iface Side-bar art can be switched in the Screen Settings Window.
+Map-eges files can now be tweaked for best results for particular resolutions.
+
+f2_res.ini changes:
+MAP_EDGE_NAME setting now equals the name of the folder where map-edge files are stored.
+
+##############################################################################################################
+V2.0c 13/05/09
+Fixed a bug with the "obj_on_screen" script function which was using 640x480 as the screen size.
+
+##############################################################################################################
+V2.0b 09/05/09
+Fixed a bug causing Mr.Fixit to crash.
+Added an option in "f2_res.ini" to hide the Map and Iface-bar while viewing the Dialog Screen.
+
+##############################################################################################################
+V2.0a 26/04/09
+Allowed for the "Screen Set" button to be placed at any position within the Main-menu task list.
+
+##############################################################################################################
+V2.0 21/04/09
+Added Support for the Russian "Lev Corp" version of Fallout 2.
+Screen resolution can now be set in-game via a new button "Screen Set" on the Main-menu.
+Added some side art to fill the blank areas either side of the IFace-Bar.
+Changed the format of the map edges ini files (edges are now set by hex tile numbers).
+
+f2_res.ini changes:
+Added settings to set the position of the new 'Screen Set' button on the Main-menu.
+Added a new section for the IFace-Bar for adjusting the way the new side art is drawn.
+Removed AUTO_SCRN_SIZE setting as the resolution can now be set in-game.
+Removed the [VARIABLES] section.
+
+Added a new file "panels.ini" to the "f2_res" folder where the various window positions are set. 
+Removed all the "RES_*.ini" files from the "f2_res" folder and coded everything contained into the "f2_res.dll".
+
+Re-worked alot of the code in the patch as it was getting to chaotic for me to keep track of.
+Made alot of minor changes too numerous to mention that probably won't be noticed anyway.
+
+##############################################################################################################
+V1.9a 01/12/08
+Fixed the Main-menu text for the Chinese Fallout2.
+
+##############################################################################################################
+V1.9 21/11/08
+Full Screen Splash, Help, Death and Ending Slides.
+Main-menu Background is also scaled to screen and uses a custom frm found in the "f2_res/intrface" folder.
+Blackened the background when using the World-Map.
+Fixed Pipboy HoloDisk Back and Done buttons.
+Hacked an error message which displays when an unsupported res is used. It now lists the chosen res rather than 640x480.
+
+##############################################################################################################
+V1.8b 19/10/08
+Reverted back to original map-limit boundaries as my replacement was causing some problems.
+
+##############################################################################################################
+V1.8a 14/10/08
+Fixed the mouse clickable area location for the Custom button in the Combat Dialogue window.
+
+##############################################################################################################
+V1.8 11/10/08
+Fix for black rectangle over Hakunin Movies bug.
+Fixed and re-enabled auto scrolling. Home-Key now works again.
+Fixed the 'Saved Game Image' when using Quick Save.
+
+New setting in the f2_res.ini file - IFACE_BAR_MODE
+This setting can be used to raise the viewable map area to the top of the Interface-Bar if desired.
+
+##############################################################################################################
+V1.7 23/09/08
+Full Screen Movies.
+Added a couple of settings for movie subtitles in the f2_res.ini
+Changed the layout of the f2_res.ini to make it easier to use.
+Corrected the spelling of SCR_HIGHT to SCR_HEIGHT for no particular reason.
+
+##############################################################################################################
+V1.6 02/09/08
+
+Fixed a bug where the map edges data wasn't loading because the internal names of some maps were in lower case.
+Set background colour to black for the Help Screen and Ending Slides.
+World-Map background now retains the image of the map you left from.
+
+##############################################################################################################
+V1.5 23/08/08
+
+Disabled auto scrolling which was causing view to become stuck in some maps
+Fixed - NPC should now appear in the dialog view window unless they are off the screen.
+
+
+##############################################################################################################
+V1.4a 18/08/08
+
+RES_FR_GR.ini and RES_UK.ini
+****************************
+Fixed an error in the French, German and UK versions of the patch affecting
+player start position when entering from the worldmap.
+
+##############################################################################################################
+V1.4 14/08/08
+
+f2_res.dll v1.4 changes
+***********************
+Map loading has been overhauled again and is now working well.
+Original Map blockers have been disabled and replaced my own functions.
+
+*.res files have been renamed and are now RES*.ini files as the extention was causing confusion.
+
+New files
+*********
+map_edges.ini, map_edges_RP.ini and map_edges_MM.ini which contain data for new map borders.
+
+F2_res.ini changes
+*******************
+SETTINGS
+3 new settings added: IGNORE_PLAYER_SCROLL_LIMITS, IGNORE_MAP_EDGES and MAP_EDGES_NAME.
+2 settings removed: MAP_LOAD_DIST and IGNORE_MAP_BLOCKERS as they are no longer needed.
+
+VARIABLES
+Scroll distance from player variables SCROLL_DIST_X and SCROLL_DIST_Y now adapt to
+the chosen resolution.
+4 variables removed: MAP_LIMITS_YA, MAP_LIMITS_XA, MAP_LIMITS_YB & MAP_LIMITS_XB.
+
+
+
+##############################################################################################################
+V1.3 24/06/08
+
+f2_res.dll v1.2, f2_res.ini and *.res changes
+***********************
+Improved map loading (still far from perfect) more details in the readme
+Full screen credits
+Dock map now hidden when displaying Ending Slideshow
+Maps now hidden when displaying Help Screen
+*.res files are now stored in "f2_res" folder (to reduce the clutter in the fallout2 folder)
+
+
+##############################################################################################################
+V1.2 31/05/08
+
+f2_res.dll v1.1 changes
+***********************
+Memory Mismatch errors are now sent to a log file "f2_res_error.log"(This was present in v1.1 but I forgot to mention it)
+
+f2_res_patcher.exe v1.2 changes
+*******************************
+Fixed a bug that caused a crash when trying to use an unsupported version of fallout2.exe
+
+
+Offset file changes (*.res) all versions
+****************************************
+[OFFSETS]
+- Dialog-Panel General NPC picture now working (fix found by "Weak-ling" NMA forum member)
+
+f2_res_README.rtf updated
+*************************
+Added Weak-Ling to the Contributors section
+Re-worded a few things that were poorly written (I hope)
+
+
+##############################################################################################################
+V1.1 27/05/08
+
+
+f2_res.dll & f2_res_patcher.exe changes
+***************************************
+
+Added compatability for other regional versions
+	US 1.02d	U.S.A
+	UK 1.02e	United Kingdom
+	FR 1.02d	French
+	GR 1.02d	German
+	CH ?		Chinese Version
+
+
+Config file changes (f2_res.ini)
+********************************
+
+[SETTINGS] section changes
+Added "CD_CHECK"- turns CD-ROM detection ON/OFF, for UK, French & German versions.
+Added "IGNORE_SCROLL_LIMITS"- for turning ON/OFF scroll limit from player.
+[VARIABLES] section changes
+Added "ENDING_SLIDES_X" & "ENDING_SLIDES_Y" for adjusting ending slideshow x&y (Cenered by default)
+Added "MAIN_MENU_W" & "MAIN_MENU_H" Experimental -Can be used with a custom sized MAINMENU.FRM
+
+
+Offset file changes (*.res)
+***************************
+
+[OFFSETS]
+Added offsets for CD-ROM Check(UK.res, FR_GR.res only)
+Added offsets for centring Elevator Panel
+added offsets for Mainmenu when using a custom sized MAINMENU.FRM
+
+[PANELS] section
+Added ENDING_SLIDES Panel
+
+##############################################################################################################
