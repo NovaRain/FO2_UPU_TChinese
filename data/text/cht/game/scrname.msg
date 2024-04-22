@@ -637,7 +637,7 @@
 {719}{}{食人族}                         # ECCanibl.int    ; Random Encounter Cannibals
 {720}{}{被逐出的人}                     # ECOutCst.int    ; Random Encounter Outcasts
 {721}{}{聖人}                           # ECHlyPpl.int    ; Random Encounter Holy People
-{722}{}{遊牧者}                         # ECNomad.int     ; Random Encounter Nomads
+{722}{}{遊牧民}                         # ECNomad.int     ; Random Encounter Nomads
 {723}{}{無家可歸的人}                   # ECHomles.int    ; Random Encounter Homeless
 {724}{}{土匪}                           # ECBandit.int    ; Random Encounter Bandit
 {725}{}{強盜}                           # ECRobber.int    ; Random Encounter Robber
