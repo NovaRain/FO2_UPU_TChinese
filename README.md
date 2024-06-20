@@ -4,7 +4,7 @@
 
 ## 安裝方式
 
-1. 先在原版繁中版遊戲上安裝[非官方修正（UPU）](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch)，版本要v28以上。
+1. 先在原版繁中版遊戲上安裝[非官方修正（UPU）](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch)，版本要v29以上。
 2. 從[發佈頁面](https://github.com/NovaRain/FO2_UP_TChinese/releases)下載`FO2_UPU_CHT_v*.rar`，將其解壓縮至遊戲目錄並覆蓋所有檔案。\
    註：如果你已經有調整過遊戲和sfall的設定，那就不要覆蓋`.cfg`與`.ini`這些設定檔，否則設定會變回初始狀態，但你需要確定`fallout2.cfg`裡面設定為`language=cht`才行。
 3. 如果Winodws的非Unicode程式的語系不是繁體中文，請先確定有安裝繁體中文語言包（要有**細明體**與**標楷體**字型），再用編碼轉換軟體以**Big5**編碼執行遊戲，例如[Locale Emulator](https://github.com/xupefei/Locale-Emulator)或[Ntleas](https://github.com/zxyacb/ntlea)。
