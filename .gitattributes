@@ -1,0 +1,3 @@
+data/text/cht/**        working-tree-encoding=big5
+data/premade/*.bio      working-tree-encoding=big5
+data/data/badwords.txt  working-tree-encoding=big5
