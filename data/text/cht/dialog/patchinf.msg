@@ -1,2 +1,2 @@
-{100}{}{§A¥¿¦b¨Ï¥Îkillap's unofficial F2 patch¡Aª©¥»1.02.32¡C·PÁÂ¦w¸Ë¡I}
-{101}{}{§A¥¿¦b¨Ï¥Îkillap's unofficial F2 patch¡Aª©¥»1.02.32¡C·PÁÂ¦w¸Ë¡I}
+{100}{}{ä½ æ­£åœ¨ä½¿ç”¨killap's unofficial F2 patchï¼Œç‰ˆæœ¬1.02.33ã€‚æ„Ÿè¬å®‰è£ï¼}
+{101}{}{ä½ æ­£åœ¨ä½¿ç”¨killap's unofficial F2 patchï¼Œç‰ˆæœ¬1.02.33ã€‚æ„Ÿè¬å®‰è£ï¼}
