@@ -1,2 +1,2 @@
-{100}{}{你正在使用killap's unofficial F2 patch，版本1.02.33。感謝安裝！}
-{101}{}{你正在使用killap's unofficial F2 patch，版本1.02.33。感謝安裝！}
+{100}{}{你正在執行基於killap非官方F2補丁的UPU v1.02.34。感謝安裝！}
+{101}{}{你正在執行基於killap非官方F2補丁的UPU v1.02.34。感謝安裝！}
