@@ -1,260 +1,260 @@
-{100}{}{�A�ݨ��@�ӥ��b�u�@���׺ݾ��C}
-{101}{}{�A�ݨ������l�M������׾����H����׺ݾ��C}
-{102}{}{�A�ݨ��@�ӥ��b�u�@���׺ݾ��C}
+{100}{}{你看見一個正在工作的終端機。}
+{101}{}{你看見反應爐和機器整修機器人控制終端機。}
+{102}{}{你看見一個正在工作的終端機。}
 
-{110}{}{�A�n�C�w��Ө�����l�M������׾����H����׺ݾ��C}
-{111}{}{�����l�M������׾����H����׺ݾ��H}
-{112}{}{�\��H}
-{113}{}{��ʡR}
-{114}{}{����ơR}
-{115}{}{���u�C}
+{110}{}{你好。歡迎來到反應爐和機器整修機器人控制終端機。}
+{111}{}{反應爐和機器整修機器人控制終端機？}
+{112}{}{功能？}
+{113}{}{行動﹕}
+{114}{}{初期化﹕}
+{115}{}{離線。}
 
-{120}{}{�ĤT���G�����l�M������׾����H����׺ݾ��C}
-{121}{}{�\��H}
-{122}{}{�����H�H���ڬݬݦ�����˪��\��C}
-{123}{}{���u�C}
+{120}{}{第三站：反應爐和機器整修機器人控制終端機。}
+{121}{}{功能？}
+{122}{}{機器人？讓我看看有什麼樣的功能。}
+{123}{}{離線。}
 
-{130}{}{�o�Ӳ׺ݾ��O�Ψӱ�������l�M�����H���\�઺�C}
-{131}{}{�����l�M������׾����H����׺ݾ��C}
-{132}{}{�@�Ӿ����H�H���ڬݬݡC}
-{133}{}{���u�C}
+{130}{}{這個終端機是用來控制反應爐和機器人的功能的。}
+{131}{}{反應爐和機器整修機器人控制終端機。}
+{132}{}{一個機器人？讓我看看。}
+{133}{}{離線。}
 
-{140}{}{�o�Ӳ׺ݾ��O�ΨӺ޲z�i�����Ĥ������l�������l�M������׾����H�A�]�i�H�ΨӶi�J�i���������C}
-{141}{}{�@�Ӿ����H�H���ڬݬݡC}
-{142}{}{�@�عq�������H���ڸոլݧگण����i�J�C}
-{143}{}{���u�C}
+{140}{}{這個終端機是用來管理波賽頓第五反應爐的反應爐和機器整修機器人，也可以用來進入波賽頓網路。}
+{141}{}{一個機器人？讓我看看。}
+{142}{}{一種電腦網路？讓我試試看我能不能夠進入。}
+{143}{}{離線。}
 
-{150}{}{�Ϣ�ҢԢԢϢ�H�{�b�Ұʢ�עܢ����A�е��@�U�C���O���i�ѧO�C�}�l�M���w�СC}
-{151}{}{����H}
-{152}{}{�Ϣ�ҢԢԢϢ�H}
+{150}{}{ＡＳＤＦＦＡＳ？現在啟動ＷＩＮ２１，請等一下。指令不可識別。開始清除硬碟。}
+{151}{}{什麼？}
+{152}{}{ＡＳＤＦＦＡＳ？}
 
-{160}{}{�����l���׾����H�ǳƶ}�l����Ƥu�@�D�D�\��K�X�H�R}
-{161}{}{�\��H}
-{162}{}{�u�@�H}
-{163}{}{�����Ѣ���������}
-{164}{}{�Ϣ�������������}
-{165}{}{���Т�����������}
-{166}{}{���u�C}
+{160}{}{反應爐維修機器人準備開始初期化工作．．功能密碼？﹕}
+{161}{}{功能？}
+{162}{}{工作？}
+{163}{}{３５Ｃ７６８６３}
+{164}{}{Ａ１５４６７６１}
+{165}{}{５Ｂ５７６００５}
+{166}{}{離線。}
 
-{170}{}{�Ĥ@�\��K�X�����C��J�ĤG�\��K�X�C}
-{171}{}{���s�]�w�C}
-{172}{}{�\��H}
-{173}{}{��ʡH}
-{174}{}{�����Ѣ���������}
-{175}{}{�Ϣ�������������}
-{176}{}{���Т�����������}
-{177}{}{���u�C}
+{170}{}{第一功能密碼接受。輸入第二功能密碼。}
+{171}{}{重新設定。}
+{172}{}{功能？}
+{173}{}{行動？}
+{174}{}{３５Ｃ７６８６３}
+{175}{}{Ａ１５４６７６１}
+{176}{}{５Ｂ５７６００５}
+{177}{}{離線。}
 
-{180}{}{�ĤG�\��K�X�����C�п�J�ĤT�\��K�X�C}
-{181}{}{���s�]�w�C}
-{182}{}{�\��H}
-{183}{}{��ʡH}
-{184}{}{�����Ѣ���������}
-{185}{}{�Ϣ�������������}
-{186}{}{���Т�����������}
-{187}{}{���u�C}
+{180}{}{第二功能密碼接受。請輸入第三功能密碼。}
+{181}{}{重新設定。}
+{182}{}{功能？}
+{183}{}{行動？}
+{184}{}{３５Ｃ７６８６３}
+{185}{}{Ａ１５４６７６１}
+{186}{}{５Ｂ５７６００５}
+{187}{}{離線。}
 
-{190}{}{�ĤT�\��K�X�����C�����l�M������׾����H�}�����D�D�п�J�u�@�{�ǡH�R}
-{191}{}{�����l�M������׾����H�}�����D�D�п�J�u�@�{�ǡH�R}
-{192}{}{�Ұʴ��q�O�i�{�ǡC}
-{193}{}{�ҰʧN�o���O�i�{�ǡC}
-{194}{}{�ҰʲM��{�ǡC}
-{195}{}{�Ұʺ��׵{�ǡC}
-{196}{}{�O���ثe���A�åB�h�X�C}
+{190}{}{第三功能密碼接受。反應爐和機器整修機器人開機中．．請輸入工作程序？﹕}
+{191}{}{反應爐和機器整修機器人開機中．．請輸入工作程序？﹕}
+{192}{}{啟動普通保養程序。}
+{193}{}{啟動冷卻器保養程序。}
+{194}{}{啟動清潔程序。}
+{195}{}{啟動維修程序。}
+{196}{}{保持目前狀態並且退出。}
 
-{200}{}{�o�ӪA�ȵ{�Ǥw�g���b�O���餤�C�nŪ���ثe���A�ȵ{�ǶܡH}
-{201}{}{�nŪ���ثe���A�ȵ{�ǶܡH}
-{202}{}{�^�W�@���C}
-{203}{}{���u�C}
+{200}{}{這個服務程序已經不在記憶體中。要讀取目前的服務程序嗎？}
+{201}{}{要讀取目前的服務程序嗎？}
+{202}{}{回上一頁。}
+{203}{}{離線。}
 
-{210}{}{�j�����D�D�A�ȵ{�Ǥ��b�����W���C}
-{211}{}{�^�W�@���C}
-{212}{}{�U���C}
-{213}{}{���u�C}
+{210}{}{搜索中．．服務程序不在本機上面。}
+{211}{}{回上一頁。}
+{212}{}{下載。}
+{213}{}{離線。}
 
-{220}{}{�}�l�M�i���������p���C�п�J�Ĥ@�w���K�X�R�����碵�����A�������袱���A���梶�������A�Ϣ����������C}
-{221}{}{�����碵����}
-{222}{}{�������袱��}
-{223}{}{���梶������}
-{224}{}{�Ϣ����������C}
-{225}{}{���u�C}
+{220}{}{開始和波賽頓網路聯接。請輸入第一安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{221}{}{７０Ｙ６４４}
+{222}{}{００８Ｚ２１}
+{223}{}{９Ｘ７２９９}
+{224}{}{Ａ４６１２３。}
+{225}{}{離線。}
 
-{230}{}{�N�o�t�ΫO�i�{�Ǥw�ҰʡC�ǳƲ��ʦܥD�n�N�C�O�s�ǡC}
-{231}{}{�o�ٯu�O²��ڡC}
-{232}{}{���u�C}
+{230}{}{冷卻系統保養程序已啟動。準備移動至主要冷媒保存室。}
+{231}{}{這還真是簡單啊。}
+{232}{}{離線。}
 
-{240}{}{�ײz�u�@�}�l�A�M�䤤�D�D�ݭn�q�ϱ���C�ǳƶ}�l���ʦܥD�n�N�C�w�C�ҰʡA�D�n�N�C�����D�n�N�C�w�y�ʡC�Цw�˹s��C}
-{241}{}{���A�ڷQ�L�j���O���o�ӧa�C}
-{242}{}{�ڨS�����ݭn���s��C}
-{243}{}{���u�C}
+{240}{}{修理工作開始，尋找中．．需要電磁控制器。準備開始移動至主要冷媒庫。啟動，主要冷媒正往主要冷媒庫流動。請安裝零件。}
+{241}{}{噢，我想他大概是講這個吧。}
+{242}{}{我沒有它需要的零件。}
+{243}{}{離線。}
 
-{250}{}{�o�Ӳ׺ݾ��]���w�����D�������F�C�гq���i���������޲z�H�C}
-{251}{}{�ݰ_�ӧڦb�o��O�S������d�Y�F�C}
-{252}{}{��A�o��|���|���������s�]�w�����s�H�ڡA�o�̴N���@�ӡA���ڸդ@�աC}
+{250}{}{這個終端機因為安全問題而關閉了。請通知波賽頓網路管理人。}
+{251}{}{看起來我在這邊是沒有什麼搞頭了。}
+{252}{}{嗯，這邊會不會有本機重新設定的按鈕？啊，這裡就有一個，讓我試一試。}
 
-{300}{}{�w���K�X���~�C}
-{301}{}{�w���K�X���~�C�L�k�i�J�C�п�J���T���K�X�C�٦��⦸���|�C}
-{302}{}{�w���K�X���~�C�L�k�i�J�C�٦��@�����|�C}
-{303}{}{�w���K�X���~�C�L�k�i�J�C�w�����@�t�αҰʡC}
-{304}{}{�V�F�C}
-{305}{}{�����ӭn�p�ߤ@�I�C}
-{306}{}{�ڳo���̦n���n�A�ǿ��F�C}
-{307}{}{��ť�_�ӫ��V�C}
-{308}{}{���u�C}
+{300}{}{安全密碼錯誤。}
+{301}{}{安全密碼錯誤。無法進入。請輸入正確的密碼。還有兩次機會。}
+{302}{}{安全密碼錯誤。無法進入。還有一次機會。}
+{303}{}{安全密碼錯誤。無法進入。安全防護系統啟動。}
+{304}{}{糟了。}
+{305}{}{我應該要小心一點。}
+{306}{}{我這次最好不要再犯錯了。}
+{307}{}{那聽起來很糟。}
+{308}{}{離線。}
 
-{310}{}{�п�J�ĤG�w���K�X�R�����碵�����A�������袱���A���梶�������A�Ϣ����������C}
-{311}{}{�����碵����}
-{312}{}{�������袱��}
-{313}{}{���梶������}
-{314}{}{�Ϣ���������}
-{315}{}{���u�C}
+{310}{}{請輸入第二安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{311}{}{７０Ｙ６４４}
+{312}{}{００８Ｚ２１}
+{313}{}{９Ｘ７２９９}
+{314}{}{Ａ４６１２３}
+{315}{}{離線。}
 
-{320}{}{�п�J�ĤT�w���K�X�R�����碵�����A�������袱���A���梶�������A�Ϣ����������C}
-{321}{}{�����碵����}
-{322}{}{�������袱��}
-{323}{}{���梶������}
-{324}{}{�Ϣ���������}
-{325}{}{���u�C}
+{320}{}{請輸入第三安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{321}{}{７０Ｙ６４４}
+{322}{}{００８Ｚ２１}
+{323}{}{９Ｘ７２９９}
+{324}{}{Ａ４６１２３}
+{325}{}{離線。}
 
-{330}{}{�w���K�X���T�C�w��Ө�i���������R}
-{331}{}{�U�����׾����H�{��}
-{332}{}{��ܨ䥦�׺ݾ�}
-{333}{}{���u�C}
+{330}{}{安全密碼正確。歡迎來到波賽頓網路﹕}
+{331}{}{下載維修機器人程序}
+{332}{}{顯示其它終端機}
+{333}{}{離線。}
 
-{340}{}{�M�䤤�D�D���׾����H�{�Ǥ��s�b�C}
-{341}{}{��A�ݨӥ��ä��b�o�̡C}
-{342}{}{�׺ݾ��C���C}
-{343}{}{���u�C}
+{340}{}{尋找中．．維修機器人程序不存在。}
+{341}{}{嗯，看來它並不在這裡。}
+{342}{}{終端機列表。}
+{343}{}{離線。}
 
-{350}{}{�M������W���ھF�D�D�K�q�s�Фw���u�D�D��ù�Ԧh�x�ư�a�Фw���u�D�D�ìP��a�Фw���u�C�M��i���������D�D�Ч�h�H��}
-{351}{}{�U�����׾����H�{��}
-{352}{}{��h}
-{353}{}{���u}
+{350}{}{尋找網路上的芳鄰．．鐵礦山－已離線．．科羅拉多軍事基地－已離線．．衛星基地－已離線。尋找波賽頓網路．．－更多？－}
+{351}{}{下載維修機器人程序}
+{352}{}{更多}
+{353}{}{離線}
 
-{360}{}{�}�l�i�����������x�R��l��o�q�������A����ù���ʯ��A�^�J�p�x����x�A�^�J�p��a�Ь�s����D�D�L�k�i�J�C}
-{361}{}{���O�G�ۡA���O�̭��S���H�C}
-{362}{}{�Ҧ����F�賣�����F�A���F�^�J�p�x���~�A������O�H}
-{363}{}{�X�G�Ҧ����F�褣�O���_�ӤF�N�O�L�k�i�J�C}
+{360}{}{開始波賽頓網路站台﹕原子能發電機＃５，那瓦羅收購站，英克雷軍控制台，英克雷基地－研究控制．．無法進入。}
+{361}{}{有燈亮著，但是裡面沒有人。}
+{362}{}{所有的東西都關掉了，除了英克雷軍之外，為什麼呢？}
+{363}{}{幾乎所有的東西不是關起來了就是無法進入。}
 
-{370}{}{�s�u���D�D�L�k�i�J�^�J�p�x�����C}
-{371}{}{�s�u���D�D���M�L�k�i�J�^�J�p�x�����C}
-{372}{}{�s�u���D�D�@�˪����G�A���M�L�k�i�J�^�J�p�x�����C}
-{373}{}{�s�u���D�D�A�ܷЭC�A���M�L�k�i�J�^�J�p�x�����C}
-{374}{}{�s�u���D�D�A�S���䥦���Ʀn���ܡH���M�L�k�i�J�^�J�p�x�����C}
-{375}{}{�Ц��F�A�p�G�A�A�դ@���A�ڴN���A�C��ݬݡC}
-{376}{}{�O���ڨSĵ�i�A�C�]���ѹq�y�q��L�y�L�A��W���C�^}
-{377}{}{�ڦA�դ@���a�H}
-{378}{}{�u�O���A���L�A�����ӭn������l�M������׾����H���צn�H}
-{379}{}{�ޡA�ڪ��s�u�Q���_�F�C}
+{370}{}{連線中．．無法進入英克雷軍網路。}
+{371}{}{連線中．．仍然無法進入英克雷軍網路。}
+{372}{}{連線中．．一樣的結果，仍然無法進入英克雷軍網路。}
+{373}{}{連線中．．你很煩耶，仍然無法進入英克雷軍網路。}
+{374}{}{連線中．．你沒有其它的事好做嗎？仍然無法進入英克雷軍網路。}
+{375}{}{煩死了，如果你再試一次，我就給你顏色看看。}
+{376}{}{別說我沒警告你。（有股電流從鍵盤流過你手上面。）}
+{377}{}{我再試一次吧？}
+{378}{}{真是的，不過，我應該要把反應爐和機器整修機器人給修好？}
+{379}{}{操，我的連線被切斷了。}
 
-{380}{}{�ݭn�w�˹q�ϱ���~����i��ײz�C}
-{381}{}{�ҰʧN�o�t�ΫO�i�C}
-{382}{}{���u�C}
+{380}{}{需要安裝電磁控制器才能夠進行修理。}
+{381}{}{啟動冷卻系統保養。}
+{382}{}{離線。}
 
-{390}{}{�q�ϱ���w�����D�D�n�~��ܡH}
-{391}{}{�O�C}
-{392}{}{���u�C}
+{390}{}{電磁控制器已接受．．要繼續嗎？}
+{391}{}{是。}
+{392}{}{離線。}
 
-{400}{}{�޿�q���l�a�C�b��污�p�ɡA�����l�M������׾����H�i�H�ϥΤ�ʾާ@�C}
-{401}{}{���n�a�A���ڸոաC}
-{402}{}{�o�u���n�C�ڱo�n���u�C}
+{400}{}{邏輯電路損壞。在緊急情況時，反應爐和機器整修機器人可以使用手動操作。}
+{401}{}{那好吧，讓我試試。}
+{402}{}{這真不好。我得要離線。}
 
-{410}{}{�����l�M������׾����H�w�ҰʡC�ˬd���ʨt�ΡD�D�ݢ١C�ˬd�����ո`�D�D�ݢ١C�޿�q���D�D���ѡC}
-{411}{}{�޿�u�����ѡC�o�O����N��H}
-{412}{}{�u�O���A�������}�o�̧a�C}
+{410}{}{反應爐和機器整修機器人已啟動。檢查移動系統．．ＯＫ。檢查內部調節．．ＯＫ。邏輯電路．．失敗。}
+{411}{}{邏輯線路失敗。這是什麼意思？}
+{412}{}{真是的，讓我離開這裡吧。}
 
-{420}{}{�u�@�a�I�ӻ��A�����ѧO�a�I�C��ĳ��k�G�N�����H���ʦܤu�@�a�I����C}
-{421}{}{�ڦp�G����J���T���u�@�{�ǡA�|��˩O�H}
-{422}{}{�o�q���u�i��D�D�ڭn���F�C}
+{420}{}{工作地點太遠，不能識別地點。建議方法：將機器人移動至工作地點附近。}
+{421}{}{我如果不輸入正確的工作程序，會怎樣呢？}
+{422}{}{這電腦真可恨．．我要走了。}
 
-{430}{}{�p�G�q���{�Ǧ����D�A���ձN�|�۰ʪ��^���x�s�ѡC}
-{431}{}{���ڪ��D�F�C���L�A�޿�q�����ѬO����N��C}
-{432}{}{�ڷǳƦn�n�Ұʳo�F��F�C}
+{430}{}{如果電腦程序有問題，機組將會自動的回到儲存槽。}
+{431}{}{那我知道了。不過，邏輯電路失敗是什麼意思。}
+{432}{}{我準備好要啟動這東西了。}
 
-{440}{}{��k�G�����l�M������׾����H���ݭn��ʫ��ɥh���j���ت��a�C���L�A�p�G�D���W����ê�A�����N�|����l�ˡA�åB�^���x�s�Ѥ��C}
-{441}{}{�ڻݭn�N�����H�h�쨺�̩O�H���ڬݬݡC}
-{442}{}{�ڷǳƦn�n�}�l�F�C}
-{443}{}{���u�C}
+{440}{}{方法：反應爐和機器整修機器人必需要手動指導去它強往目的地。不過，如果道路上有障礙，機器將會受到損傷，並且回到儲存槽中。}
+{441}{}{我需要將機器人搬到那裡呢？讓我看看。}
+{442}{}{我準備好要開始了。}
+{443}{}{離線。}
 
-{450}{}{�n�D���H���G}
-{451}{}{�ڷQ�n���D�n�쨺�̧󴫹q�ϱ���C}
-{452}{}{�ڷQ�n���D���̥D�n�N�o�h���b���̡C}
-{453}{}{���}�C}
+{450}{}{要求的信息：}
+{451}{}{我想要知道要到那裡更換電磁控制器。}
+{452}{}{我想要知道那裡主要冷卻閘門在那裡。}
+{453}{}{離開。}
 
-{460}{}{�q�ϱ���N�b�����l�֤ߪ��F��W�C���N�b�N�o�h�����k��C}
-{461}{}{�D�n�N�o�h���b���̡H}
-{462}{}{�ڷǳƦn�n�}�l�F�C}
-{463}{}{���u�C}
+{460}{}{電磁控制器就在反應爐核心的東牆上。它就在冷卻閘門的右邊。}
+{461}{}{主要冷卻閘門在那裡？}
+{462}{}{我準備好要開始了。}
+{463}{}{離線。}
 
-{470}{}{�D�n�N�o�h���N�b�����l�֤ߪ��F��W�C�h���O�Q�@�Ӥj�����L�ұ���C}
-{471}{}{�����Ӥ�����Хu�n���������n���F���ܡC}
-{472}{}{�ڷQ�����Ӷ}�l�F�C}
-{473}{}{���u�C}
+{470}{}{主要冷卻閘門就在反應爐核心的東牆上。閘門是被一個大紅輪盤所控制。}
+{471}{}{那應該不難找－只要那紅漆不要掉了的話。}
+{472}{}{我想我應該開始了。}
+{473}{}{離線。}
 
-{480}{}{��ʱ�������l�M������׾����H����k�G���ʻݭn��J�R�O�G���A�k�A�e�A�M��̫�n���U����R�O�C}
-{482}{}{��ܥH�e�R�O�C�R�O�H�RMoveVar1}
-{484}{}{���H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2}
-{486}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3}
-{488}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{480}{}{手動控制反應爐和機器整修機器人的方法：移動需要輸入命令：左，右，前，然後最後要按下執行命令。}
+{482}{}{顯示以前命令。命令？﹕MoveVar1}
+{484}{}{５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2}
+{486}{}{１０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3}
+{488}{}{１５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{２０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{２５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{３０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{３５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{４０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{４５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{５０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{５５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
 
-{506}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
-{508}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
-{510}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{�����H���q�C��ܥH�e�R�O�C�R�O�H�RMoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
-{522}{}{�४}
-{524}{}{��k}
-{526}{}{���e}
+{506}{}{６０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{６５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{７０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{７５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{８０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{８５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{９０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{９５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{522}{}{轉左}
+{524}{}{轉右}
+{526}{}{走前}
 
-{530}{}{�w�˲G���ϳ�����C}
-{531}{}{�����D�n�N�o�h��}�C
+{530}{}{安裝液壓磁場控制器。}
+{531}{}{關掉主要冷卻閘門}。
 
-{535}{}{����ʱ�������l�M������׾����H����C}
+{535}{}{緊急手動控制反應爐和機器整修機器人控制。}
 
-{540}{}{�[�@�өR�O}
-{541}{}{��ܵ{��}
-{542}{}{���ұ��p���i}
-{543}{}{�l�˳��i}
-{544}{}{�R���Ҧ��R�O}
-{545}{}{����{��}
-{546}{}{�^�W�@���C}
-{547}{}{���u�C}
-{550}{}{�^��D�n���C}
+{540}{}{加一個命令}
+{541}{}{顯示程序}
+{542}{}{環境情況報告}
+{543}{}{損傷報告}
+{544}{}{刪除所有命令}
+{545}{}{執行程序}
+{546}{}{回上一頁。}
+{547}{}{離線。}
+{550}{}{回到主要選單。}
 
-{600}{}{��ܩR�O�R}
-{601}{}{�վ�\�α���C}
-{602}{}{�[�j�\�q��g�u�O�@�n�C}
-{603}{}{�]�w�q�e���q���C}
-{604}{}{�޲z����t�ΡC}
-{605}{}{���չq�i����C}
-{606}{}{�w�˹q�ϱ���C}
-{607}{}{�����D�n�N�o�h��}
-{608}{}{���}�D�n�N�o�h��}
+{600}{}{選擇命令﹕}
+{601}{}{調整鈾棒控制器。}
+{602}{}{加強鈾礦放射線保護罩。}
+{603}{}{設定電容器電壓。}
+{604}{}{管理控制系統。}
+{605}{}{測試電波控制器。}
+{606}{}{安裝電磁控制器。}
+{607}{}{關掉主要冷卻閘門}
+{608}{}{打開主要冷卻閘門}
 
-{620}{}{��ܵ{�ǡG}
-{630}{}{���ҳ��i�G}
-{640}{}{�l�a���i�G}
-{650}{}{�R�O�w�R���C}
-{660}{}{�е{��������}
+{620}{}{顯示程序：}
+{630}{}{環境報告：}
+{640}{}{損壞報告：}
+{650}{}{命令已刪除。}
+{660}{}{－程式結束－}
 
-{700}{}{�е��ݡG�{�����b���椤�C}
-{710}{}{���S�������C}
-{720}{}{�R�O���~�C���w�^�챱���x�s�ѡC}
-{730}{}{�R�O���~�C}
-{740}{}{�n�C}
+{700}{}{請等待：程式正在執行中。}
+{710}{}{單位沒有反應。}
+{720}{}{命令錯誤。單位已回到控制儲存槽。}
+{730}{}{命令錯誤。}
+{740}{}{好。}
 
-{800}{}{�̨ΤƵ{�Ǧ��\�C}
+{800}{}{最佳化程序成功。}
 
-{900}{}{���b�B���ɮפ��A�е��ݡC}
-{910}{}{[�����C]}
+{900}{}{正在處裡檔案中，請等待。}
+{910}{}{[完成。]}
