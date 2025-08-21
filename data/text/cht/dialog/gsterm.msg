@@ -5,8 +5,8 @@
 {110}{}{你好。歡迎來到反應爐和機器整修機器人控制終端機。}
 {111}{}{反應爐和機器整修機器人控制終端機？}
 {112}{}{功能？}
-{113}{}{行動﹕}
-{114}{}{初期化﹕}
+{113}{}{行動：}
+{114}{}{初期化：}
 {115}{}{離線。}
 
 {120}{}{第三站：反應爐和機器整修機器人控制終端機。}
@@ -28,7 +28,7 @@
 {151}{}{什麼？}
 {152}{}{ＡＳＤＦＦＡＳ？}
 
-{160}{}{反應爐維修機器人準備開始初期化工作．．功能密碼？﹕}
+{160}{}{反應爐維修機器人準備開始初期化工作．．功能密碼？：}
 {161}{}{功能？}
 {162}{}{工作？}
 {163}{}{３５Ｃ７６８６３}
@@ -54,8 +54,8 @@
 {186}{}{５Ｂ５７６００５}
 {187}{}{離線。}
 
-{190}{}{第三功能密碼接受。反應爐和機器整修機器人開機中．．請輸入工作程序？﹕}
-{191}{}{反應爐和機器整修機器人開機中．．請輸入工作程序？﹕}
+{190}{}{第三功能密碼接受。反應爐和機器整修機器人開機中．．請輸入工作程序？：}
+{191}{}{反應爐和機器整修機器人開機中．．請輸入工作程序？：}
 {192}{}{啟動普通保養程序。}
 {193}{}{啟動冷卻器保養程序。}
 {194}{}{啟動清潔程序。}
@@ -72,7 +72,7 @@
 {212}{}{下載。}
 {213}{}{離線。}
 
-{220}{}{開始和波賽頓網路聯接。請輸入第一安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{220}{}{開始和波賽頓網路聯接。請輸入第一安全密碼：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
 {221}{}{７０Ｙ６４４}
 {222}{}{００８Ｚ２１}
 {223}{}{９Ｘ７２９９}
@@ -102,21 +102,21 @@
 {307}{}{那聽起來很糟。}
 {308}{}{離線。}
 
-{310}{}{請輸入第二安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{310}{}{請輸入第二安全密碼：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
 {311}{}{７０Ｙ６４４}
 {312}{}{００８Ｚ２１}
 {313}{}{９Ｘ７２９９}
 {314}{}{Ａ４６１２３}
 {315}{}{離線。}
 
-{320}{}{請輸入第三安全密碼﹕７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
+{320}{}{請輸入第三安全密碼：７０Ｙ６４４，００８Ｚ２１，９Ｘ７２９９，Ａ４６１２３。}
 {321}{}{７０Ｙ６４４}
 {322}{}{００８Ｚ２１}
 {323}{}{９Ｘ７２９９}
 {324}{}{Ａ４６１２３}
 {325}{}{離線。}
 
-{330}{}{安全密碼正確。歡迎來到波賽頓網路﹕}
+{330}{}{安全密碼正確。歡迎來到波賽頓網路：}
 {331}{}{下載維修機器人程序}
 {332}{}{顯示其它終端機}
 {333}{}{離線。}
@@ -131,7 +131,7 @@
 {352}{}{更多}
 {353}{}{離線}
 
-{360}{}{開始波賽頓網路站台﹕原子能發電機＃５，那瓦羅收購站，英克雷軍控制台，英克雷基地－研究控制．．無法進入。}
+{360}{}{開始波賽頓網路站台：原子能發電機＃５，那瓦羅收購站，英克雷軍控制台，英克雷基地－研究控制．．無法進入。}
 {361}{}{有燈亮著，但是裡面沒有人。}
 {362}{}{所有的東西都關掉了，除了英克雷軍之外，為什麼呢？}
 {363}{}{幾乎所有的東西不是關起來了就是無法進入。}
@@ -192,27 +192,27 @@
 {473}{}{離線。}
 
 {480}{}{手動控制反應爐和機器整修機器人的方法：移動需要輸入命令：左，右，前，然後最後要按下執行命令。}
-{482}{}{顯示以前命令。命令？﹕MoveVar1}
-{484}{}{５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2}
-{486}{}{１０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3}
-{488}{}{１５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4}
-{490}{}{２０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
-{492}{}{２５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
-{494}{}{３０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
-{496}{}{３５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
-{498}{}{４０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
-{500}{}{４５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
-{502}{}{５０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
-{504}{}{５５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
+{482}{}{顯示以前命令。命令？：MoveVar1}
+{484}{}{５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2}
+{486}{}{１０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3}
+{488}{}{１５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4}
+{490}{}{２０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5}
+{492}{}{２５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6}
+{494}{}{３０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7}
+{496}{}{３５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8}
+{498}{}{４０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9}
+{500}{}{４５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10}
+{502}{}{５０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11}
+{504}{}{５５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12}
 
-{506}{}{６０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
-{508}{}{６５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
-{510}{}{７０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
-{512}{}{７５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
-{514}{}{８０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
-{516}{}{８５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{９０％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
-{520}{}{９５％熱量。顯示以前命令。命令？﹕MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
+{506}{}{６０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13}
+{508}{}{６５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14}
+{510}{}{７０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15}
+{512}{}{７５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
+{514}{}{８０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
+{516}{}{８５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
+{518}{}{９０％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{520}{}{９５％熱量。顯示以前命令。命令？：MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11, MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{轉左}
 {524}{}{轉右}
 {526}{}{走前}
@@ -232,7 +232,7 @@
 {547}{}{離線。}
 {550}{}{回到主要選單。}
 
-{600}{}{選擇命令﹕}
+{600}{}{選擇命令：}
 {601}{}{調整鈾棒控制器。}
 {602}{}{加強鈾礦放射線保護罩。}
 {603}{}{設定電容器電壓。}
