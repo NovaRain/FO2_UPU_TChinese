@@ -1,5 +1,5 @@
 sfall, a Fallout 2 engine tweak mod by Timeslip and many other contributors
-version 4.4.9, built for Fallout 2 v1.02 US
+version 4.4.9.1, built for Fallout 2 v1.02 US
 
 Project Page on SourceForge: https://sourceforge.net/projects/sfall/
 Code Repository on GitHub:   https://github.com/sfall-team/sfall
@@ -54,6 +54,9 @@ Starting from 4.2.2, sfall is not compatible with the experimental version of th
 ** Changelog **
 ***************
 
+v4.4.9.1
+>Fixed a crash bug introduced in 4.4.6 when the player is hit and combat starts at the same time
+
 v4.4.9
 >Fixed the edge-scrolling speed when using the game speed tweak
 >Fixed incorrect unarmed damage being displayed in the inventory under specific conditions
@@ -107,7 +110,7 @@ v4.4.6
 >Added a fix for the duplicate click sound when selecting a location in the Status section of the pipboy
 >Added a fix for extra hidden buttons below the location list in the Status section of the pipboy
 >Added a fix for map lighting from Night Vision perk not updating when loading a saved game
->Added a fix for an animation glitch when death animations and combat start simultaneously
+>Added a fix for an animation glitch when death animations and combat start at the same time
 >Added a fix to prevent the game from hanging when reloading a weapon overloaded with ammo via the interface bar
 >Added a few fixes for issues related to weapons with negative ammo
 >Added a tweak to replace death animations on critters with single-frame variants on map load
@@ -374,14 +377,14 @@ v4.3.0.2
 >Updated French translation (from HawK-EyE)
 
 v4.3.0.1
->Fixed a crash bug introduced in 4.3 with the fix for animation registration
+>Fixed a crash bug introduced in 4.3 by the fix for animation registration
 >Fixed a bug in AIDrugUsePerfFix that could cause a hang in combat
 >Fixed the extra check for friendly fire not working if the 'area_attack_mode' parameter in the AI packet is not set or set to no_pref
 >Added a fix for chem_primary_desire values in party member AI packets not being saved and reset correctly
 
 v4.3
 >Fixed the original engine issues with being unable to register animations in certain situations in the game
->Fixed a crash bug introduced in 4.2.9 with the fix for the 'Leave' event procedure in AddRegionProc function
+>Fixed a crash bug introduced in 4.2.9 by the fix for the 'Leave' event procedure in AddRegionProc function
 >Fixed a bug in ObjCanSeeObj_ShootThru_Fix that could cause a hang in some cases
 >Fixed the check of the ammo cost for a shot in CheckWeaponAmmoCost
 >Fixed set_critter_burst_disable script function, which now applies only to weapons with the burst attack as the secondary mode
@@ -621,7 +624,7 @@ v4.2.2
 >New hook script: hs_targetobject
 
 v4.2.1.1
->Fixed a crash bug introduced in 4.2.1 with the fix for corpses blocking line of fire
+>Fixed a crash bug introduced in 4.2.1 by the fix for corpses blocking line of fire
 
 v4.2.1
 >Fixed a bug in save_array script function that could corrupt sfallgv.sav when saving a new array under the same key
