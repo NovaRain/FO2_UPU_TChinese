@@ -1,5 +1,5 @@
 sfall, a Fallout 2 engine tweak mod by Timeslip and many other contributors
-version 4.4.9.1, built for Fallout 2 v1.02 US
+version 4.5, built for Fallout 2 v1.02 US
 
 Project Page on SourceForge: https://sourceforge.net/projects/sfall/
 Code Repository on GitHub:   https://github.com/sfall-team/sfall
@@ -54,8 +54,38 @@ Starting from 4.2.2, sfall is not compatible with the experimental version of th
 ** Changelog **
 ***************
 
+v4.5
+>Fixed garbled colors during the fade to the main menu on startup when SkipOpeningMovies is enabled
+>Fixed the AP cost display not updating on game load when using HOOK_CALCAPCOST hook script
+>Fixed load_array script function not accepting floats as array keys
+>Fixed a crash when calling proto_data with an invalid data member value
+>Fixed set_critter_current_ap and set_combat_free_move script functions to update the player's AP lights only in combat
+>Fixed set/remove_script script functions not setting the script index number on an object properly
+>Fixed set_unique_id script function to prevent it from reassigning an object ID when unnecessary
+>Fixed ONDEATH hook to prevent it from being triggered by non-critter objects
+>Fixed REMOVEINVENOBJ hook not being triggered when using an item from active item slots while in the inventory screen
+>Changed add_extra_msg_file script function to mark the two-argument form as deprecated
+>Changed objects_in_radius script function to accept a radius of 0
+>Changed the character portrait on the character screen (from the hero appearance mod) to always show the standing pose
+>Re-added NumberPatchLoop option from older versions to ddraw.ini
+>Removed AllowLargeTiles option because its functionality is impractical and has never been used
+>Removed GlobalScriptPaths option because storing global scripts across multiple paths is almost never needed
+>Removed ExtraSaveSlots option from ddraw.ini. Now additional pages of save slots are always available, up to 1000 slots in total
+>Added a fix for the +/- keys not updating the brightness slider when used on the preferences screen
+>Added a fix for getting stuck on an empty map when the encounter table has no available entries
+>Added a fix for a visual glitch on the character screen when selecting perks that modify SPECIAL stats
+>Added a fix for the morning start time used to determine random encounter frequency
+>Added a tweak to center inventory windows horizontally when not using the hi-res patch
+>Added a tweak to the animation sequence when interacting with scenery or using an item on an object
+>Added a tweak to use path length instead of tile distance to determine whether to walk or run to interact with objects
+>Added a new value to InstantWeaponEquip to skip weapon equip/unequip animations only when interacting with objects
+>Added object type validation to item_weight script function to prevent potential issues
+>Added a file size check for scripts to filter out clearly defective ones
+>Added support for nested array expressions (compile.exe in the modders pack is also updated)
+>Increased the maximum party member level from 6 to 10
+
 v4.4.9.1
->Fixed a crash bug introduced in 4.4.6 when the player is hit and combat starts at the same time
+>Fixed a crash bug introduced in 4.4.6 when a critter is hit and combat starts at the same time
 
 v4.4.9
 >Fixed the edge-scrolling speed when using the game speed tweak
@@ -1124,7 +1154,7 @@ v3.7b
 Original engine bug fixes and various features based on the work by Crafty:
 >Fixed a crash bug introduced with the inventory drag and drop fix
 >Added a new value to SpeedInterfaceCounterAnims to update the HP/AC counters instantly when the number is not negative
->Added an option to skip weapon equip/unequip animations when performing various actions
+>Added an option to skip weapon equip/unequip animations during various actions
 >Added an option to control the speed of pipboy alarm clock animations
 >Added an option to change the carry weight limit
 
